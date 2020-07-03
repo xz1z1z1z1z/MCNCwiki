@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
   - [sakuraburst - serotonin (Sillyp) \[Injection\]](https://osu.ppy.sh/b/2453163)
   - [Senya - Yureru Koi wa Nami no Gotoku (-Muses-) \[OD6 For MCNC\]](https://osu.ppy.sh/b/2455045)
   - [Street - Sakura Fubuki (Ata Remix) (Todestrieb) \[Bloom\]](https://osu.ppy.sh/b/1284684)
-  - [Team Grimoire - Caliburne ~Story of the Legendary sword~ (\[Crz\]Satori) \[LN\]](https://osu.ppy.sh/b/2361834)
+  - [Team Grimoire - Caliburne \~Story of the Legendary sword\~ (\[Crz\]Satori) \[LN\]](https://osu.ppy.sh/b/2361834)
   - [The Flashbulb - Stinger (Gekido-) \[Challenge\]](https://osu.ppy.sh/b/2030336)
   - [The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi\s Beginner\]](https://osu.ppy.sh/b/2448996)
   - [Various Artist - Jungdongjin's 7th 4k LN Pack (Jungdongjin) \[FELT - Pulse\]](https://osu.ppy.sh/b/1319488)
