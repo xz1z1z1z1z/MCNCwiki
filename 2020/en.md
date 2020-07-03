@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (201MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [Aquellex - Tachyon Beam Cannon	https://osu.ppy.sh/b/2476292	Plutes	Gekido-'s Destruction 1.1x\]]
+  - [Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]](https://osu.ppy.sh/b/2476292)
   - [Camellia - * Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/b/2483411)
   - [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/b/2477432)
   - [Camellia - SECRET BOSS (Kamuy) \[CATASTROPHE\]](https://osu.ppy.sh/b/2302409)
@@ -131,7 +131,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hino Isuka - Dreamin' attraction!!(Extended) (Daikyi) \[Fanatical Allure!!\]](https://osu.ppy.sh/b/978989)
   - [Imperial Circus Dead Decadence - Gekiai no Yobigoe ga Dekiai no Kyougoe wo Kurau (MintApril) \[RE=SINSE-\[..\]/-c\]](https://osu.ppy.sh/b/1525505)
   - [Ke-ji feat. Nanahira - Ange du Blanc Pur (eZmmR) \[Je prie au nom de " Nanahira ".\]](https://osu.ppy.sh/b/2171704)
-  - [Nekomata Master - Avalon no oka	(https://osu.ppy.sh/b/1783653)	Niro-	LN Deluge
+  - [Nekomata Master - Avalon no oka (Niro-) \[LN Deluge\]](https://osu.ppy.sh/b/1783653)
   - [PinocchioP - All I Need are Things I Like (\[Illustrious\]) \[Jacks I Like \[1.05x Rate\]\]](https://osu.ppy.sh/b/2471999)
   - [PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey 1.2x\]](https://osu.ppy.sh/b/2476306) 
   - [SasakureP - bokura no 16bit warz (Niro-) \[LN Challenge\]](https://osu.ppy.sh/b/1311149)
@@ -148,15 +148,15 @@ This competition has come to an end and resulted in the following podium:
   - [Camellia - Ultimate Ascension (\[Crz\]MemoryI) \[owo sv\]](https://osu.ppy.sh/b/2460090)
   - [EBIMAYO - Firefly City (Short edit) (LeiN-) \[Light Swarm\]](https://osu.ppy.sh/b/1210020)
   - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/b/2414492)
-  - [Fish Leong - Nuan Nuan 	([\Crz\]xz1z1z)	\[xz1z1z's Remake 1.08x\]](https://osu.ppy.sh/b/2460032)
-  - [gems - Gems Pack 18 - Future (gemboyong) [(Marathon) 17 - Undertale - Asgore (Dj Jo Remix)Bergentruckung LN\\](https://osu.ppy.sh/b/1356875)
+  - [Fish Leong - Nuan Nuan 	(\[Crz\]xz1z1z)	\[xz1z1z's Remake 1.08x\]](https://osu.ppy.sh/b/2460032)
+  - [gems - Gems Pack 18 - Future (gemboyong) [(Marathon) 17 - Undertale - Asgore (Dj Jo Remix)Bergentruckung LN\]](https://osu.ppy.sh/b/1356875)
   - [Hatsuki Yura - Dancer of Saramandora (Raveille) \[Sprites\]](https://osu.ppy.sh/b/1752295)
   - [Hige Driver - 498 Tokio (LeiN-) \[Only Thing That Never Be Changed\]](https://osu.ppy.sh/b/2126497)
   - [LeaF - MEPHISTO (arcwinolivirus) \[4K LN Massacre\]](https://osu.ppy.sh/b/1134593)
-  - [Lv.4 - Aestivalis	https://osu.ppy.sh/b/2461211	Leo137	25 x1.2
+  - [Lv.4 - Aestivalis (Leo137) \[25 x1.2\]](https://osu.ppy.sh/b/2461211)
   - [MOSAIC.WAV - Saikyou OX Keikaku  (Leo137) \[Nixo 00 Pack x1.05\]](https://osu.ppy.sh/b/2456897)
   - [Pan Weibo / Zhang Shaohan - Kuai Le Chong Bai (Doshowz) \[Come on x1.1_P\]](https://osu.ppy.sh/b/2459944)
-  - [Sta & Sakuzyo - Fracture Ray (pt. St-Zy)	https://osu.ppy.sh/b/2460295	Sillyp	Insane
+  - [Sta & Sakuzyo - Fracture Ray (pt. St-Zy) (Sillyp) \[Insane\]](https://osu.ppy.sh/b/2460295)
   - [Various Artists - Jack Dumps (Seiryuu) \[Xceon feat. Mayumi Morinaga - Sakurayozora\]](https://osu.ppy.sh/b/1429737)
   - [Zef - Gambit (Gekido-) \[8-Bit Insanity\]](https://osu.ppy.sh/b/1552957)
 - Tiebreaker
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Nomod
   - [DASU - 8 6 (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/b/2285630)
-  - [Falk - Mach Sigma - For Dream Dance Act 1 (shuniki) \[ShuChan!!\](https://osu.ppy.sh/b/1996937)
+  - [Falk - Mach Sigma - For Dream Dance Act 1 (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/b/1996937)
   - [AKINO from bless4 - Miiro (Mat) \[Acc Meme\]](https://osu.ppy.sh/b/1759637)
   - [KBSM - Blue Rose (LegendXYZ) \[Hard\]](https://osu.ppy.sh/b/237790)
   
