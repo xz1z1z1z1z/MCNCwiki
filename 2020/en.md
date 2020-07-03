@@ -166,7 +166,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (156MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
+- Freemod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmaps/2037752)
   - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
   - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668)
@@ -187,41 +187,41 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (113MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
-  - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmaps/1811863)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291)
-  - [PROTODOME - Greatest Hat (Gekido-) \[chalLeNge\]](https://osu.ppy.sh/beatmaps/1759313)
-  - [Frederic - oddloop (infilect) \[oldnep\]](https://osu.ppy.sh/beatmaps/1376904)
-  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmaps/1552444)
-  - [wa. remixed by celas - Gin no Kaze (Elekton) \[mistral\]](https://osu.ppy.sh/beatmaps/1592941)
-  - [Silentroom - Protoflicker (\[Crz\]Crysarlene) \[crysather\]](https://osu.ppy.sh/beatmaps/1954837)
-  - [Aural Vampire - Shonan Zoku -Cannibal Coast- (Wh1teh) \[k\]](https://osu.ppy.sh/beatmaps/1158510)
-  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
-  - [Laur, Dustvoxx - FireLight (Neokontrol Remix) (Suu is my waifu) \[Enkindle\]](https://osu.ppy.sh/beatmaps/1708743)
-  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/beatmaps/1711260)
-  - [Camellia - \*Feels Seasickness...\* (Suu is my waifu) \[\*Maximum...\*\]](https://osu.ppy.sh/beatmaps/1932640)
+- Freemod
+  - [(G)I-DLE - WHAT'S YOUR NAME (Skochan) \[My name\]](https://osu.ppy.sh/b/1947823)
+  - [Aero Chord & Fractal - Until The End ft. Q'AILA (selaretsa) \[remind me of who I really am\]](https://osu.ppy.sh/b/1890595)
+  - [ChunbaiP - Guang (\[Crz\]xz1z1z) \[Charoi's Medium 1.1x\]](https://osu.ppy.sh/b/2436144)
+  - [Denpagumi.inc - Den Den Passion (frolica) \[x1.1\]](https://osu.ppy.sh/b/2235083)
+  - [DJ Myosuke - Anguish (Guilhermeziat) \[Calamity\]](https://osu.ppy.sh/b/1461055)
+  - [FELT - OUR SHIP (Imperial Wolf) \[Ark\]](https://osu.ppy.sh/b/2426038)
+  - [Zekk - Fluctuation (Urusai) \[Stage 4: Variation\]](https://osu.ppy.sh/b/2423454)
+  - [Paul Bazooka - Drunken Stein (Sillyp) \[KUNNAN BIANSU\]](https://osu.ppy.sh/b/2429361)
+  - [PSYQUI feat. Mikanzil - Endroll (Macan0133) \[x1.0\]](https://osu.ppy.sh/b/2353780)
+  - [SHIKI - Angelic layer (Madoka2574) \[sc\]](https://osu.ppy.sh/b/2332060)
+  - [Sobrem feat.Sound piercer - HoneyButterBass (Sillyp) [4k Extra\]](https://osu.ppy.sh/b/2436739)
+  - [VerseQuence - Wilt (Guilhermeziat) \[Unweave\]](https://osu.ppy.sh/b/1253611)
+  - [ZYTOKINE - DESIRE DREAM feat. Itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/b/1751934)
 - Tiebreaker
-  - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/beatmaps/2075130)**
+  - **[Nizikawa ft. Nayuta - Babel (\_VianK\_) \[Birdcage\]](https://osu.ppy.sh/b/2190865)**
 
 ### Group Stage
 
 **[Download the mappack here! (121MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmaps/1985858)
-  - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/beatmaps/1442650)
-  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
-  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[puxtu's Lunatic\]](https://osu.ppy.sh/beatmaps/968811)
-  - [ARM - Saita, Kimi no Egao (Julie) \[I can Fly\]](https://osu.ppy.sh/beatmaps/967569)
-  - [Various Artists - Chordial Blitz (DourGent) \[Venetian Drums - Sheenoboo\]](https://osu.ppy.sh/beatmaps/1703314)
-  - [Joywave - Yolomania Selections (Daybreak) \[1.1x\]](https://osu.ppy.sh/beatmaps/2066048)
-  - [BilliumMoto - life flashes before weeb eyes (Hydria) \[Tech\]](https://osu.ppy.sh/beatmaps/2041466)
-  - [void - Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]](https://osu.ppy.sh/beatmaps/1467814)
-  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454)
-  - [Mick Gordon - Rip and tear (Herkkupala) \[Revenant\]](https://osu.ppy.sh/beatmaps/1970086)
+  - [Bring Me The Horizon - ouch (Sillyp) \[Tears\]](https://osu.ppy.sh/b/2413394)
+  - [ck - Carnation (ck remix) (Tamaki Iroha) \[Cyaegha\]](https://osu.ppy.sh/b/2333548)
+  - [Bullet For My Valentine - Waking The Demon (Shoegazer) \[Expert\]](https://osu.ppy.sh/b/2159735)
+  - [Puru - Filament (Sillyp) \[Insane\]](https://osu.ppy.sh/b/2242164)
+  - [Various - SN3RM Collection - 4K LN (Minseo2000) \[Killerblood - Theme of Kingdom No. 8\]](https://osu.ppy.sh/b/1399606)
+  - [Dreamcatcher - Endless Night (LovelyN) \[Finite\]](https://osu.ppy.sh/b/2340614)
+  - [SUWAKI - Shungiku (-mint-) \[Chrysanthemum\]](https://osu.ppy.sh/b/2293711)
+  - [Hong Liu Zhi Yuan - Mouse Wizard (\[RT\]Alleyne) \[Mouse\]](https://osu.ppy.sh/b/2126573)
+  - [Hommarju - BEAST BASS BOMB (-MysticEyes) \[MAXIMUM\]](https://osu.ppy.sh/b/1940816)
+  - [Nanawo Akari - DaDaDaDa Tenshi (Xingyue-) \[Dame\]](https://osu.ppy.sh/b/2352772)
+  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/b/1514656)
 - Tiebreaker
-  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/beatmaps/1253374)**
+  - **[Camellia - Tornado (Dubstek) \[Disaster\]](https://osu.ppy.sh/b/2021759)**
 
 ### Qualifiers
 
