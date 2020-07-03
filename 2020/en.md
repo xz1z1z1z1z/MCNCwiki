@@ -239,7 +239,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Crz\]Murasame** | **7** | 3 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/54022298) |
+| **WLYMinato** | **7** | 3 | Kakuko | [#1](https://osu.ppy.sh/community/matches/63433126) |
 | \[Crz\]Satori | 1 | **7** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/54020340) |
 | Stink God | 1 | **7** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/53828408) |
 | **\[Crz\]FolAH1217** | **7** | 0 | tyrcs | [#1](https://osu.ppy.sh/community/matches/53661619) |
