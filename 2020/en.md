@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
   - [Paul Bazooka - Drunken Stein (Sillyp) \[KUNNAN BIANSU\]](https://osu.ppy.sh/b/2429361)
   - [PSYQUI feat. Mikanzil - Endroll (Macan0133) \[x1.0\]](https://osu.ppy.sh/b/2353780)
   - [SHIKI - Angelic layer (Madoka2574) \[sc\]](https://osu.ppy.sh/b/2332060)
-  - [Sobrem feat.Sound piercer - HoneyButterBass (Sillyp) [4k Extra\]](https://osu.ppy.sh/b/2436739)
+  - [Sobrem feat.Sound piercer - HoneyButterBass (Sillyp) \[4k Extra\]](https://osu.ppy.sh/b/2436739)
   - [VerseQuence - Wilt (Guilhermeziat) \[Unweave\]](https://osu.ppy.sh/b/1253611)
   - [ZYTOKINE - DESIRE DREAM feat. Itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/b/1751934)
 - Tiebreaker
