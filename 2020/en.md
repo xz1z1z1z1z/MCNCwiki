@@ -239,50 +239,52 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **WLYMinato** | **7** | 3 | Kakuko | [#1](https://osu.ppy.sh/community/matches/63433126) |
-| \[Crz\]Satori | 1 | **7** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/54020340) |
-| Stink God | 1 | **7** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/53828408) |
-| **\[Crz\]FolAH1217** | **7** | 0 | tyrcs | [#1](https://osu.ppy.sh/community/matches/53661619) |
-| **\[Crz\]Murasame** | **7** | 1 | \[Crz\]Satori | [#1](https://osu.ppy.sh/community/matches/53661063) |
-| **Stink God** | **7** | 1 | Pureforever | [#1](https://osu.ppy.sh/community/matches/53636288) |
+| **WLYMinato** | **7** | 6 | Kakuko | [#1](https://osu.ppy.sh/community/matches/63433126) |
+| \[Crz\]I-Night | 1 | **7** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/63350975) |
+| CaOH2 | 5 | **7** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/63202940) |
+| **WLYMinato** | **7** | 3 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/63202940) |
+| \[Crz\]FolAH1217 | 4 | **7** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/63120114) |
+| **CaOH2** | **7** | 0 | \[Crz\]Willis | [#1](https://osu.ppy.sh/community/matches/63076376) |
 
 ### Semifinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Pureforever** | **7** | 0 | Kakuko | *win by default* |
-| **\[Crz\]Satori** | **7** | 4 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/53331754) |
-| **Kakuko** | **7** | 6 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/53309484) |
-| **Pureforever** | **7** | 1 | Ecivon | [#1](https://osu.ppy.sh/community/matches/53308594) |
-| Stink God | 3 | **7** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/53307268) |
-| \[RT\]Mrqianmo | 0 | 0 | \[Crz\]HDRoop_7 | *[fake match](https://osu.ppy.sh/community/matches/53304213)* |
-| ImmortalphoeniX | 0 | **7** | **tyrcs** | *win by default* |
+| **Kakuko** | **7** | 1 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/62788036) |
+| CaOH2 | 6 | **7** | **WLYMinato** | [#1](https://osu.ppy.sh/community/matches/62623376) |
+| 91sNake | 3 | **7** | **\[Crz\]Serika** | [#1](https://osu.ppy.sh/community/matches/62582037) |
+| **\[Crz\]Willis** | **7** | 3 | GanYou | [#1](https://osu.ppy.sh/community/matches/62573512) |
+| **\[Crz\]Willis** | **7** | 3 | Sakaki | [#1](https://osu.ppy.sh/community/matches/62533644) |
+| **\[Crz\]I-Night** | **7** | 4 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/62528816) |
+| **Kakuko** | **7** | 2 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/62447269) |
+| Rain 7 | 0 | **7** | **GanYou** | *Win by Default* |
+
 
 ### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ImmortalphoeniX | 0 | **6** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/53166697) |
-| AradORiOn\_MMM | 0 | **6** | **Ecivon** | *win by default* |
-| Kakuko | 1 | **6** | **\[Crz\]Satori** | [#1](https://osu.ppy.sh/community/matches/53163071) |
-| **\[Crz\]FolAH1217** | **6** | 2 | Pureforever | [#1](https://osu.ppy.sh/community/matches/53147887) |
-| **\[Crz\]HDRoop_7** | **6** | 0 | Lo\_liFish2000 | [#1](https://osu.ppy.sh/community/matches/53146211) |
-| \[RT\]Alleyne | 0 | **6** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/53146151) |
-| **Stink God** | **6** | 4 | \[RT\]Mrqianmo | [#1](https://osu.ppy.sh/community/matches/53145970) |
-| **\[Crz\]Serika** | **6** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/53121165) |
+| **AW ZERO** | **6** | 3 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/62325859) |
+| **\[Crz\]Serika** | **6** | 0 | ImmortalphoeniX | [#1](https://osu.ppy.sh/community/matches/62290117) |
+| Yana Feiya | 4 | **6** | **Sakaki** | [#1](https://osu.ppy.sh/community/matches/62283027) |
+| **CaOH2** | **6** | 0 | CaOH2 | [#1](https://osu.ppy.sh/community/matches/62248597) |
+| \[Crz\]FolAH1217 | **6** | 0 | **\[Crz\]Wills** | [#1](https://osu.ppy.sh/community/matches/62247573) |
+| **WLYMinato** | **6** | 3 | Kakuko | [#1](https://osu.ppy.sh/community/matches/62244510) |
+| Rain 7 | 3 | **6** | **\[Crz\]I-Night** | [#1](https://osu.ppy.sh/community/matches/62124562) |
+| **GanYou** | **6** | 1 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/62122623) |
 
 ### Round of 16
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Crz\]FolAH1217** | **6** | 3 | \[Crz\]HDRoop_7 | [#1](https://osu.ppy.sh/community/matches/53006585) |
-| \[Crz\]Serika | 4 | **6** | **ImmortalphoeniX** | [#1](https://osu.ppy.sh/community/matches/53005544) |
-| **Kakuko** | **6** | 1 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/53000811) |
-| Ecivon | 1 | **6** | **\[RT\]Mrqianmo** | [#1](https://osu.ppy.sh/community/matches/52986431) |
-| **Pureforever** | **6** | 1 | Lo\_liFish2000 | [#1](https://osu.ppy.sh/community/matches/52984756) |
-| **\[Crz\]Satori** | **6** | 0 | tyrcs | [#1](https://osu.ppy.sh/community/matches/52982350) |
-| AradORiOn\_MMM | 0 | **6** | **Stink God** | [#1](https://osu.ppy.sh/community/matches/52937821) |
-| **\[Crz\]Murasame** | **6** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/52892266) |
+| **WLYMinato** | **6** | 0 | GanYou | [#1](https://osu.ppy.sh/community/matches/62043764) |
+| **Rain 7** | **6** | 4 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/62041002) |
+| **CaOH2** | **6** | 3 | Yana Feiya | [#1](https://osu.ppy.sh/community/matches/62039738) |
+| **\[Crz\]I-Night** | **6** | 0 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61995411) |
+| ImmortalphoeniX | 3 | **6** | **[Crz]Wills** | [#1](https://osu.ppy.sh/community/matches/61990866) |
+| **\[Crz\]FolAH1217** | **6** | 2 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/61968097) |
+| Sakaki | 4 | **6** | **91sNake** | [#1](https://osu.ppy.sh/community/matches/61924476) |
+| **Kakuko** | **6** | 2 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/61917219) |
 
 ### Group stage
 
