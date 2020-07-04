@@ -31,8 +31,8 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon of the New Crazyboard, profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon of the New Crazyboard, profile badge, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon of the New Crazyboard, profile badge, 1 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon of the New Crazyboard, 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon of the New Crazyboard, 1 months of osu!supporter tag |
 
 ## Organisation
 
@@ -108,9 +108,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [](https://osu.ppy.sh/users/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [](https://osu.ppy.sh/users/) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [](https://osu.ppy.sh/users/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 
 ![MCNC 2020 bracket](img/bracket.png)
 
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 - Freemod
   - [Dyako/UsadaPekora - usadapekora (\[Crz\]xz1z1z) \[pekopekopeko\]](https://osu.ppy.sh/b/2438605)
   - [Hatsune Miku&Megurine Luka - Magnet (\[Crz\]Rachel) \[1.0x \[1.15x Rate\]\]](https://osu.ppy.sh/b/2449052)
-  - [iconoclasm - Zirkfied (\[Crz\]MemoryI) \[Tournament\]](https://osu.ppy.sh/b/2447686)
+  - [iconoclasm - Zirkfied (\[Crz\]MemoryI) \[Tournament 2\]](https://osu.ppy.sh/b/2447686)
   - [LV.4 - Spriggan (\[Crz\]Crysarlene) \[Valkyrie Dimension 1.1x\]](https://osu.ppy.sh/b/1672285)
   - [Memme - Bspower BigBang (Sillyp) \[Goat Muscle Nuclear Bomb\]](https://osu.ppy.sh/b/2453733)
   - [PinocchioP - Kusaregedou to Chocolate (Mat) \[Psychotic\]](https://osu.ppy.sh/b/1382223)
