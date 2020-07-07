@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 | **\[Crz\]Serika** | **6** | 0 | ImmortalphoeniX | [#1](https://osu.ppy.sh/community/matches/62290117) |
 | Yana Feiya | 4 | **6** | **Sakaki** | [#1](https://osu.ppy.sh/community/matches/62283027) |
 | **CaOH2** | **6** | 0 | CaOH2 | [#1](https://osu.ppy.sh/community/matches/62248597) |
-| \[Crz\]FolAH1217 | **6** | 0 | **\[Crz\]Wills** | [#1](https://osu.ppy.sh/community/matches/62247573) |
+| **\[Crz\]FolAH1217** | **6** | 0 | \[Crz\]Wills | [#1](https://osu.ppy.sh/community/matches/62247573) |
 | **WLYMinato** | **6** | 3 | Kakuko | [#1](https://osu.ppy.sh/community/matches/62244510) |
 | Rain 7 | 3 | **6** | **\[Crz\]I-Night** | [#1](https://osu.ppy.sh/community/matches/62124562) |
 | **GanYou** | **6** | 1 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/62122623) |
@@ -291,54 +291,54 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| WLYMinato | **5** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61774138) |
-| WLYMinato | **5** | 0 | \[Crz\]Willis | [#1](https://osu.ppy.sh/community/matches/61773028) |
-| Sakaki | **5** | 1 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/61768100) |
-| GanYou | **5** | 0 | GODV14138 | - Win by Default - |
-| Rain 7 | **5** | 3 | 91sNake | [#1](https://osu.ppy.sh/community/matches/61652103) |
-| 91sNake | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61568705) |
-| Sakaki | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61527778) |
-| GanYou | **5** | 4 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61491269) |
-| 91sNake | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61490636) |
-| \[Illustrious\] | **5** | 0 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61489582) |
-| \[Crz\]FolAH1217 | **5** | 0 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/61489670) |
-| Rbpencil | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61489433) |
-| AW ZERO | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61488845) |
-| Rain 7 | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61487959) |
-| \[Crz\]Serika | **5** | 2 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61484300) |
-| AW ZERO | **5** | 1 | spensll | [#1](https://osu.ppy.sh/community/matches/61483220) |
-| Kakuko | **5** | 1 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61482953) |
-| yuwenhao1 | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61481734) |
-| CaOH2 | **5** | 1 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61450678) |
-| lxy20019xs | **5** | 3 | Edward_Tsui | [#1](https://osu.ppy.sh/community/matches/61448780) |
-| CherryG | **5** | 0 | \[ Emiya \] | - Win by Default - |
-| Yana Feiya | **5** | 1 | Hx_032 | [#1](https://osu.ppy.sh/community/matches/61443303) |
-| Yana Feiya | 0 | 5 | Kagaku | - Win by Default - |
-| \[Crz\]FolAH1217 | **5** | 0 | Edward_Tsui | [#1](https://osu.ppy.sh/community/matches/61408636) |
-| CaOH2 | **5** | 0 | CherryG | [#1](https://osu.ppy.sh/community/matches/61408071) |
-| Sakaki | **5** | 0 | spensll | [#1](https://osu.ppy.sh/community/matches/61406411) |
-| ImmortalphoeniX | **5** | 0 | GanYou | [#1](https://osu.ppy.sh/community/matches/61396980) |
-| \[Crz\]Willis | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61367564) |
-| Rain 7 | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61326151) |
-| gzdongsheng | **5** | 4 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61319107) |
-| spensll | **5** | 1 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61318858) |
-| WLYMinato | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61287330) |
-| \[Crz\]Serika | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61285336) |
-| \[Crz\]I-Night | **5** | 0 | Hx_032 | [#1](https://osu.ppy.sh/community/matches/61277958) |
-| Kakuko | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61277963) |
-| Yana_Feiya | **5** | 1 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/61246404) |
-| Kakuko | **5** | 2 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/61247590) |
-| ImmortalphoeniX | **5** | 1 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61247471) |
-| Edward_Tsui | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61248259) |
-| lxy20019xs | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61245327) |
-| \[Crz\]Willis | **5** | 0 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61244894) |
-| \[Crz\]I-Night | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61238984) |
-| ImmortalphoeniX | **5** | 1 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61236550) |
-| CaOH2 | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61209240) |
-| \[Crz\]FolAH1217 | **5** | 0 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61206938) |
-| \[RT\]Alleyne | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61206622) |
-| Hx_032 | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61201441) |
-| \[RT\]Alleyne | **5** | 1 | CherryG | [#1](https://osu.ppy.sh/community/matches/61200581) |
+| **WLYMinato** | **5** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61774138) |
+| **WLYMinato** | **5** | 0 | \[Crz\]Willis | [#1](https://osu.ppy.sh/community/matches/61773028) |
+| **Sakaki** | **5** | 1 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/61768100) |
+| **GanYou** | **5** | 0 | GODV14138 | *Win by Default* |
+| **Rain 7** | **5** | 3 | 91sNake | [#1](https://osu.ppy.sh/community/matches/61652103) |
+| **91sNake** | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61568705) |
+| **Sakaki** | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61527778) |
+| **GanYou** | **5** | 4 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61491269) |
+| **91sNake** | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61490636) |
+| **\[Illustrious\]** | **5** | 0 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61489582) |
+| **\[Crz\]FolAH1217** | **5** | 0 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/61489670) |
+| **Rbpencil** | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61489433) |
+| **AW ZERO** | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61488845) |
+| **Rain 7** | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61487959) |
+| **\[Crz\]Serika** | **5** | 2 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61484300) |
+| **AW ZERO** | **5** | 1 | spensll | [#1](https://osu.ppy.sh/community/matches/61483220) |
+| **Kakuko** | **5** | 1 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61482953) |
+| **yuwenhao1** | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61481734) |
+| **CaOH2** | **5** | 1 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61450678) |
+| **lxy20019xs** | **5** | 3 | Edward\_Tsui | [#1](https://osu.ppy.sh/community/matches/61448780) |
+| **CherryG** | **5** | 0 | \[ Emiya \] | *Win by Default* |
+| **Yana Feiya** | **5** | 1 | Hx\_032 | [#1](https://osu.ppy.sh/community/matches/61443303) |
+| Yana Feiya | 0 | **5** | **Kagaku** | *Win by Default* |
+| **\[Crz\]FolAH1217** | **5** | 0 | Edward\_Tsui | [#1](https://osu.ppy.sh/community/matches/61408636) |
+| **CaOH2** | **5** | 0 | CherryG | [#1](https://osu.ppy.sh/community/matches/61408071) |
+| **Sakaki** | **5** | 0 | spensll | [#1](https://osu.ppy.sh/community/matches/61406411) |
+| **ImmortalphoeniX** | **5** | 0 | GanYou | [#1](https://osu.ppy.sh/community/matches/61396980) |
+| **\[Crz\]Willis** | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61367564) |
+| **Rain 7** | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61326151) |
+| **gzdongsheng** | **5** | 4 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61319107) |
+| **spensll** | **5** | 1 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61318858) |
+| **WLYMinato** | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61287330) |
+| **\[Crz\]Serika** | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61285336) |
+| **\[Crz\]I-Night** | **5** | 0 | Hx\_032 | [#1](https://osu.ppy.sh/community/matches/61277958) |
+| **Kakuko** | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61277963) |
+| **Yana\_Feiya** | **5** | 1 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/61246404) |
+| **Kakuko** | **5** | 2 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/61247590) |
+| **ImmortalphoeniX** | **5** | 1 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61247471) |
+| **Edward\_Tsui** | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61248259) |
+| **lxy20019xs** | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61245327) |
+| **\[Crz\]Willis** | **5** | 0 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61244894) |
+| **\[Crz\]I-Night** | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61238984) |
+| **ImmortalphoeniX** | **5** | 1 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61236550) |
+| **CaOH2** | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61209240) |
+| **\[Crz\]FolAH1217** | **5** | 0 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61206938) |
+| **\[RT\]Alleyne** | **5** | 0 | \[ Emiya \] | *Win by Default* |
+| **Hx\_032** | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61201441) |
+| **\[RT\]Alleyne** | **5** | 1 | CherryG | [#1](https://osu.ppy.sh/community/matches/61200581) |
 
 
 
@@ -347,7 +347,7 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament rules
 
 1. This is a osu!mania head-to-head individual tournament for Chinese players.
-2. This tourney will be using 4-key ScoreV2, and will have two stages: a double elimination group stage followed by a double elimination bracket stage. A qualifiers stage will be used should the player count for this tourney surpass 32 eligible players.
+2. This tourney will be using 4-key score v2, and will have three stages: a qualifiers stage, a double elimination group stage followed by a double elimination bracket stage.
 3. There is no limit on the number of the players that will enter. Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will not be allowed entry into the tournament. Note that failure to read the entire forum post during sign-up may cause the player to not be eligible until the issue is resolved, so please read the entire post first!
 4. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the territories listed above is eligible for playing.
 5. The discord server will be the source of pretty much all the information for this tournament, so if you're joining, either as player, staff, or even as a spectator, you'll want to join for all of the latest updates. Players are required to join the official discord to be eligible of playing in the tournament. For those who cannot access discord, we have a QQ server containing the methods which could help you better access discord. QQ server number: 597317576.
@@ -387,9 +387,8 @@ This competition has come to an end and resulted in the following podium:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "ScoreV2". Room name must be "MCNC: (Red) vs (Blue)".
-2. Warmups during the Group Stages may not have a length higher than 5 minutes. Bracket Stages may be no longer than 6 minutes. Warmups are optional when allowed.
-3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool.
-Before matches will start, the captain of each player will roll and the one with the highest roll will choose their warmup first (if they would like their warmup), pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
+2. Warmups during the Group Stages may not have a length higher than 5 minutes. Bracket Stages may be no longer than 6 minutes (unless agreed by both side). Warmups are optional when allowed.
+3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool. Before matches will start, the captain of each player will roll and the one with the highest roll will pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
 4. Players will be given at most 2 minutes for picking/banning each map. Players taking to long to make a ban/pick will result in losing their ban/pick. Continued stalling will result in the other player's banning/picking instead.
 5. Players will be given at most 3 minutes for fielding the desired roster for the map. The map will start 3 minutes after the map has been chosen, with no exceptions barring technical issues.
 6. For free mod picks, mod is optional for either of the player, with selectable mods being HD, FI, and FL.
