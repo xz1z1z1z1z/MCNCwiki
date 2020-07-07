@@ -290,54 +290,56 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ImmortalphoeniX | 0 | **5** | **\[Crz\]Satori** | [#1](https://osu.ppy.sh/community/matches/52732581) |
-| \[Crz\]I-Night | 4 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52787715) |
-| Tamaki Iroha | 0 | **5** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/52813607) |
-| snowkyou | 0 | **5** | **\[Crz\]Serika** | [#1](https://osu.ppy.sh/community/matches/52813517) |
-| Tamaki Iroha | 1 | **5** | **\[RT\]Alleyne** | [#1](https://osu.ppy.sh/community/matches/52814260) |
-| snowkyou | 1 | **5** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/52814391) |
-| \[RT\]Alleyne | 1 | **5** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/52815303) |
-| Ecivon | 1 | **5** | **AW ZERO** | [#1](https://osu.ppy.sh/community/matches/52815363) |
-| **Ecivon** | **5** | 0 | \[Crz\]HDRoop_7 | *win by default* |
-| **\[Crz\]Serika** | **5** | 3 | tyrcs | [#1](https://osu.ppy.sh/community/matches/52816796) |
-| **Lo\_liFish2000** | **5** | 0 | LFWY | *win by default* |
-| \[RT\]Mrqianmo | 1 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52817851) |
-| - xiaoluoli - | 1 | **5** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/52817901) |
-| Stink God | 1 | **5** | **Pureforever** | [#1](https://osu.ppy.sh/community/matches/52818187) |
-| AW ZERO | 0 | **5** | **\[Crz\]HDRoop_7** | [#1](https://osu.ppy.sh/community/matches/52836502) |
-| Sakaki | 0 | **5** | **Kakuko** | *win by default* |
-| **- xiaoluoli -** | **5** | 0 | Sakaki | *win by default* |
-| Lo\_liFish2000 | 0 | **5** | **AradORiOn\_MMM** | [#1](https://osu.ppy.sh/community/matches/52845212) |
-| LFWY | 0 | **5** | **AradORiOn\_MMM** | *win by default* |
-| **\[RT\]Mrqianmo** | **5** | 2 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/52846150) |
-| Namida KL | 0 | **5** | **\[Crz\]Satori** | *win by default* |
-| Namida KL | 0 | **5** | **ImmortalphoeniX** | *win by default* |
-| ying huo | 0 | **5** | **Stink God** | *win by default* |
-| ying huo | 0 | **5** | **Pureforever** | *win by default* |
-| ImmortalphoeniX | 0 | **5** | **\[Crz\]Satori** | [#1](https://osu.ppy.sh/community/matches/52732581) |
-| \[Crz\]I-Night | 4 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52787715) |
-| Tamaki Iroha | 0 | **5** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/52813607) |
-| snowkyou | 0 | **5** | **\[Crz\]Serika** | [#1](https://osu.ppy.sh/community/matches/52813517) |
-| Tamaki Iroha | 1 | **5** | **\[RT\]Alleyne** | [#1](https://osu.ppy.sh/community/matches/52814260) |
-| snowkyou | 1 | **5** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/52814391) |
-| \[RT\]Alleyne | 1 | **5** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/52815303) |
-| Ecivon | 1 | **5** | **AW ZERO** | [#1](https://osu.ppy.sh/community/matches/52815363) |
-| **Ecivon** | **5** | 0 | \[Crz\]HDRoop_7 | *win by default* |
-| **\[Crz\]Serika** | **5** | 3 | tyrcs | [#1](https://osu.ppy.sh/community/matches/52816796) |
-| **Lo\_liFish2000** | **5** | 0 | LFWY | *win by default* |
-| \[RT\]Mrqianmo | 1 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52817851) |
-| - xiaoluoli - | 1 | **5** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/52817901) |
-| Stink God | 1 | **5** | **Pureforever** | [#1](https://osu.ppy.sh/community/matches/52818187) |
-| AW ZERO | 0 | **5** | **\[Crz\]HDRoop_7** | [#1](https://osu.ppy.sh/community/matches/52836502) |
-| Sakaki | 0 | **5** | **Kakuko** | *win by default* |
-| **- xiaoluoli -** | **5** | 0 | Sakaki | *win by default* |
-| Lo\_liFish2000 | 0 | **5** | **AradORiOn\_MMM** | [#1](https://osu.ppy.sh/community/matches/52845212) |
-| LFWY | 0 | **5** | **AradORiOn\_MMM** | *win by default* |
-| **\[RT\]Mrqianmo** | **5** | 2 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/52846150) |
-| Namida KL | 0 | **5** | **\[Crz\]Satori** | *win by default* |
-| Namida KL | 0 | **5** | **ImmortalphoeniX** | *win by default* |
-| ying huo | 0 | **5** | **Stink God** | *win by default* |
-| ying huo | 0 | **5** | **Pureforever** | *win by default* |
+| WLYMinato | **5** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61774138) |
+| WLYMinato | **5** | 0 | \[Crz\]Willis | [#1](https://osu.ppy.sh/community/matches/61773028) |
+| Sakaki | **5** | 1 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/61768100) |
+| GanYou | **5** | 0 | GODV14138 | - Win by Default - |
+| Rain 7 | **5** | 3 | 91sNake | [#1](https://osu.ppy.sh/community/matches/61652103) |
+| 91sNake | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61568705) |
+| Sakaki | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61527778) |
+| GanYou | **5** | 4 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61491269) |
+| 91sNake | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61490636) |
+| \[Illustrious\] | **5** | 0 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61489582) |
+| \[Crz\]FolAH1217 | **5** | 0 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/61489670) |
+| Rbpencil | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61489433) |
+| AW ZERO | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61488845) |
+| Rain 7 | **5** | 0 | Timewasdeepsea | [#1](https://osu.ppy.sh/community/matches/61487959) |
+| \[Crz\]Serika | **5** | 2 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61484300) |
+| AW ZERO | **5** | 1 | spensll | [#1](https://osu.ppy.sh/community/matches/61483220) |
+| Kakuko | **5** | 1 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/61482953) |
+| yuwenhao1 | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61481734) |
+| CaOH2 | **5** | 1 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61450678) |
+| lxy20019xs | **5** | 3 | Edward_Tsui | [#1](https://osu.ppy.sh/community/matches/61448780) |
+| CherryG | **5** | 0 | \[ Emiya \] | - Win by Default - |
+| Yana Feiya | **5** | 1 | Hx_032 | [#1](https://osu.ppy.sh/community/matches/61443303) |
+| Yana Feiya | 0 | 5 | Kagaku | - Win by Default - |
+| \[Crz\]FolAH1217 | **5** | 0 | Edward_Tsui | [#1](https://osu.ppy.sh/community/matches/61408636) |
+| CaOH2 | **5** | 0 | CherryG | [#1](https://osu.ppy.sh/community/matches/61408071) |
+| Sakaki | **5** | 0 | spensll | [#1](https://osu.ppy.sh/community/matches/61406411) |
+| ImmortalphoeniX | **5** | 0 | GanYou | [#1](https://osu.ppy.sh/community/matches/61396980) |
+| \[Crz\]Willis | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61367564) |
+| Rain 7 | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61326151) |
+| gzdongsheng | **5** | 4 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61319107) |
+| spensll | **5** | 1 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61318858) |
+| WLYMinato | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/61287330) |
+| \[Crz\]Serika | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61285336) |
+| \[Crz\]I-Night | **5** | 0 | Hx_032 | [#1](https://osu.ppy.sh/community/matches/61277958) |
+| Kakuko | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61277963) |
+| Yana_Feiya | **5** | 1 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/61246404) |
+| Kakuko | **5** | 2 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/61247590) |
+| ImmortalphoeniX | **5** | 1 | \[Illustrious\] | [#1](https://osu.ppy.sh/community/matches/61247471) |
+| Edward_Tsui | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61248259) |
+| lxy20019xs | **5** | 1 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61245327) |
+| \[Crz\]Willis | **5** | 0 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61244894) |
+| \[Crz\]I-Night | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61238984) |
+| ImmortalphoeniX | **5** | 1 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61236550) |
+| CaOH2 | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61209240) |
+| \[Crz\]FolAH1217 | **5** | 0 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61206938) |
+| \[RT\]Alleyne | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61206622) |
+| Hx_032 | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61201441) |
+| \[RT\]Alleyne | **5** | 1 | CherryG | [#1](https://osu.ppy.sh/community/matches/61200581) |
+
+
 
 ## Ruleset
 
