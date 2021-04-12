@@ -6,9 +6,9 @@ tags:
 
 # osu!mania 4K Chinese National Cup 2021
 
-![MCNC 2021 logo](img/logo.png)
+![MCNC 2021 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the third installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third installment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -17,14 +17,14 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 | Registration phase | 2021-03-01/2021-03-31 |
 | Qualifiers | 2021-04-05/2021-04-11 |
 | Live drawings | 2021-04-11 (20:00 UTC+8) |
-| Group Stage - Week 1 | 2021-04-12/2021-04-18 |
-| Group Stage - Week 2 | 2021-04-19/2021-04-25 |
+| Group Stage week 1 | 2021-04-12/2021-04-18 |
+| Group Stage week 2 | 2021-04-19/2021-04-25 |
 | Round of 16 | 2021-04-26/2021-05-02 |
 | Quarterfinals | 2021-05-03/2021-05-09 |
-| Semifinals - Week 1 | 2021-05-10/2021-05-16 |
-| Semifinals - Week 2 | 2021-05-17/2021-05-23 |
-| Finals - Week 1 | 2021-05-24/2021-05-30 |
-| Finals - Week 2 | 2021-05-31/2021-06-06 |
+| Semifinals week 1 | 2021-05-10/2021-05-16 |
+| Semifinals week 2 | 2021-05-17/2021-05-23 |
+| Finals week 1 | 2021-05-24/2021-05-30 |
+| Finals week 2 | 2021-05-31/2021-06-06 |
 
 ## Prizes
 
@@ -32,16 +32,16 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter tag |
 
 ## Organisation
 
 The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Muses](https://osu.ppy.sh/users/9705896), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
+| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Muses](https://osu.ppy.sh/users/9705896), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
@@ -58,15 +58,35 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing)**
+
+- FreeMod
+  - [LeaF - Paraclete (Wonki) \[Another\]](https://osu.ppy.sh/beatmapsets/515734#mania/1095177)
+  - [Zekk - MEJIRUSHI (FAMoss) \[PROFESSIONA\]](https://osu.ppy.sh/beatmapsets/1159152#mania/2418797)
+  - [Neru - Nihiru to Suibotsutoshi (Muses) \[xz & Muse's Illusion\]](https://osu.ppy.sh/beatmapsets/1404700#mania/2897064)
+  - [Tezuka feat. Amimi Oonishi - Suisou no kujira (ATing) \[Touru's MIAN\]](https://osu.ppy.sh/beatmapsets/1167144#mania/2436346)
+  - [iconoclasm - perditus paradisus (lemonguy) \[Another\]](https://osu.ppy.sh/beatmapsets/1302861#mania/2845681)
+  - [Helblinde - Above The Clouds (\[Crz\]xz1z1z) \[Tidek's Heaven (Edit)\]](https://osu.ppy.sh/beatmapsets/1427003#mania/2938278)
+  - [xi - Fiat Lux (\[Crz\]MemoryI) \[on the same horizon\]](https://osu.ppy.sh/beatmapsets/1425149#mania/2934737)
+  - [Sta - The Silence (Wh1teh) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/451169#mania/967884)
+  - [Unlucky Morpheus - Danzai wa Amaneku Ningen no Motto ni (\[Illustrious\]) \[kami no breeze\]](https://osu.ppy.sh/beatmapsets/1018449#mania/2902249)
+  - [nameless x toa - Patchwork Staccato (\[Crz\]Satori) \[ln\]](https://osu.ppy.sh/beatmapsets/1426977#mania/2938241)
+  - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
+  - [Elijah Hill - Better (H1Pur) \[nearing perfection\]](https://osu.ppy.sh/beatmapsets/1376566#mania/2845109)
+- Tiebreaker
+  - [Camellia - Dance with Silence (\[Crz\]xz1z1z) \[Silence\]](https://osu.ppy.sh/beatmapsets/1405229#mania/2934744)
+
 ### Qualifiers
 
 **[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
 
 - FreeMod
-  - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/b/2923231)
-  - [Makoto (CV: Komatsu Mikako) / Kasumi (CV: Minase Inori) - Mikaiketsuna omoi (\[Crz\]Satori) \[ln\]](https://osu.ppy.sh/b/2924900)
-  - [Synthwulf - Passacaglia (\[Illustrious\]) \[Insane\]](https://osu.ppy.sh/b/2906275)
-  - [Applesoda - Tales of Pumpnia (\[Crz\]xz1z1z) \[Battle\]](https://osu.ppy.sh/b/2922271)
+  - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/beatmapsets/1418929#mania/2923231)
+  - [Makoto (CV: Komatsu Mikako) / Kasumi (CV: Minase Inori) - Mikaiketsuna omoi (\[Crz\]Satori) \[ln\]](https://osu.ppy.sh/beatmapsets/1419855#mania/2924900)
+  - [Synthwulf - Passacaglia (\[Illustrious\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/1409526#mania/2906275)
+  - [Applesoda - Tales of Pumpnia (\[Crz\]xz1z1z) \[Battle\]](https://osu.ppy.sh/beatmapsets/1418376#mania/2922271)
 
 ## Ruleset
 
@@ -125,7 +145,5 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 11. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
 
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
