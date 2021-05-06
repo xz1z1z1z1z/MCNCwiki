@@ -58,6 +58,28 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (123 MB)](https://drive.google.com/file/d/1VDpFnjGwhyzIp0SvqUu6XEizSJ9FfGiD/view?usp=sharing)**
+
+- FreeMod
+  - [TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) \[11Bit's Fallen Angel\]](https://osu.ppy.sh/beatmapsets/1248382#mania/2597083)
+  - [MYUKKE - BUNA\*SYNERGY!!! (Muses) \[M \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1398645#mania/2885985)
+  - [yuiko - Inai sekai (\[Crz\]MemoryI) \[Disappear\]](https://osu.ppy.sh/beatmapsets/1400666#mania/2889624)
+  - [EGOIST - Namae no Nai Kaibutsu (TV Size) (Muses) \[P for Psychotherapy\]](https://osu.ppy.sh/beatmapsets/1426939#mania/2963439)
+  - [Creaky Jackals - PLVCK (Flexo123) \[Extra\]](https://osu.ppy.sh/beatmapsets/409921#mania/889671)
+  - [Camellia - Heart of Android : Even If It's Only By Mechanism (Cut ver.) (AlexDunk) \[Machinery love (Cut ver.)\]](https://osu.ppy.sh/beatmapsets/1444836#mania/2972051)
+  - [C-show - GIMME DA BLOOD (H1Pur) \[GIMME DA SV\]](https://osu.ppy.sh/beatmapsets/1428709#mania/2941393)
+  - [Fractal Dreamers - Gardens Under a Spring Sky (\[Crz\]xz1z1z) \[Vernal\]](https://osu.ppy.sh/beatmapsets/1398608#mania/2885730)
+  - [YOASOBI - Yoru ni Kakeru (11Bit) \[a longly night... 1.1x\]](https://osu.ppy.sh/beatmapsets/1211012#mania/2573485)
+  - [Mian - Present (Doshowz) \[Hard\]](https://osu.ppy.sh/beatmapsets/1444039#mania/2970437)
+  - [Erehamonika - Der Wald (\_underjoy) \[Verloren\]](https://osu.ppy.sh/beatmapsets/1319005#mania/2732397)
+  - [Hanatan - Palette (Lynessa) \[x1.0\]](https://osu.ppy.sh/beatmapsets/1413004#mania/2912596)
+  - [M2U - Felis (Nyakkeru) \[xz1z1z's Scurrying\]](https://osu.ppy.sh/beatmapsets/1321042#mania/2773340)
+  - [sakuzyo - Hodia (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
+- Tiebreaker
+  - [Kanone vs Yooh - Cold Inflaction (Extended Mix) (\[Crz\]xz1z1z) \[Cold But With You\]](https://osu.ppy.sh/beatmapsets/1274517#mania/2648242)
+
 ### Group Stage
 
 **[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing)**
