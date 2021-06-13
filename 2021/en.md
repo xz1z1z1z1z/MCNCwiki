@@ -67,7 +67,7 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [Camellia - Alone intelligence (guden) \[Solace\]](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385)
   - [Junk - Life is PIANO (Muses & xz's Life is JACKKK) \[ \[Crz\]xz1z1z\]](https://osu.ppy.sh/beatmapsets/1369788#mania/2832368)
   - [Hino Isuka - #be_fortunate (HowToPlayLN) \[ #be_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
-  - [Silentroom - Shuu no Hazama (Cut ver.) (Monheim) \[ April's Abendregen\](https://osu.ppy.sh/beatmapsets/1321003#mania/2736532)
+  - [Silentroom - Shuu no Hazama (Cut ver.) (Monheim) \[ April's Abendregen\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736532)
   - [lapix - Outer Space (Evening) \[ current\]](https://osu.ppy.sh/beatmapsets/1071822#mania/2243437)
   - [ sakuraburst – dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
   - [Morimori – PUPA (Fullerene-) \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
