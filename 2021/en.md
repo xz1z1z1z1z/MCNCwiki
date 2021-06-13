@@ -69,7 +69,7 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [Hino Isuka - #be_fortunate (HowToPlayLN) \[#be_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
   - [Silentroom - Shuu no Hazama (Cut ver.) (Monheim) \[April's Abendregen\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736532)
   - [lapix - Outer Space (Evening) \[current\]](https://osu.ppy.sh/beatmapsets/1071822#mania/2243437)
-  - [ sakuraburst – dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
+  - [sakuraburst – dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
   - [Morimori – PUPA (Fullerene-) \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
   - [Yooh – Heracles (Sherie) \[Confusion\]](https://osu.ppy.sh/beatmapsets/1135500#mania/2474910)
   - [Honda Michiyo - close your eyes (\[Crz\]xz1z1z) \[Charoi's Beginner 1.1x\]](https://osu.ppy.sh/beatmapsets/1454360#mania/2989810)
