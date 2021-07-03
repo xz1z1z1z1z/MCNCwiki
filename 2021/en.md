@@ -58,6 +58,31 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (255 MB)](https://drive.google.com/file/d/1Fb0s3GTJzZ0v2LgCJLhtjphwpXXPYpkl/view?usp=sharing)**
+
+- FreeMod
+  - [Camellia - Racemization (Ayase Eli) \[ELPIS' Racemization 1.15x\]](https://osu.ppy.sh/beatmapsets/1484517#mania/3044452)
+  - [sakuzyo - PANDORA PARADOXXX (Imperial Wolf) \[4K Re:MASTER LV.15\]](https://osu.ppy.sh/beatmapsets/1483812#mania/3043161)
+  - [Camellia - Flamewall (Cut ver.) (\[Crz\]xz1z1z) \[AlexDunk's FINAL REBELLION (Cut Edit) \[1.05x Rate\]](https://osu.ppy.sh/beatmapsets/1462775#mania/3019256)
+  - [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
+  - [Hatsuki Yura - Halloween of the Dead (Truth you left) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1485450#mania/3046055)
+  - [Juggernaut - OPLHEUX (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1450331#mania/2981829)
+  - [SHK - Super Capriccio (\[Crz\]xz1z1z) \[Super Jacks 1.1x\]](https://osu.ppy.sh/beatmapsets/1482423#mania/3040646)
+  - [lapix - Horizon Blue feat. Kanata.N (Sillyp) \[4k Horizon\]](https://osu.ppy.sh/beatmapsets/1082497#mania/2264280)
+  - [konomi suzuki - CHOIR JAIL (Muses) \[Sin edit\]](https://osu.ppy.sh/beatmapsets/1392626#mania/3038977)
+  - [Boys Like Girls - The Great Escape (Shoegazer) \[Departure 1.2x\]](https://osu.ppy.sh/beatmapsets/1186973#mania/2476815)
+  - [Camellia - Kamah (Scythe) (Ticle) \[Set them free\]](https://osu.ppy.sh/beatmapsets/1314013#mania/2723400)
+  - [LV.4 - Angel Dust (2008 Mix) (\[Crz\]xz1z1z) \[Cut Edit\]](https://osu.ppy.sh/beatmapsets/1382971#mania/3019151)
+  - [Hatsuki Yura - Hameln (Muses) \[Fanger\]](https://osu.ppy.sh/beatmapsets/1481462#mania/3038941)
+  - [Falcom Sound Team jdk - GENS D'ARMES (lemonguy) \[Gendarme\]](https://osu.ppy.sh/beatmapsets/1199166#mania/2497240)
+  - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.1\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707897)
+  - [Chroma - Lost found melody (Ciel) \[Found\]](https://osu.ppy.sh/beatmapsets/1051052#mania/2196635)
+- Tiebreaker
+  - [Camellia - NIGHTMARE CITY (\[Crz\]xz1z1z) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1486342#mania/3047677)
+
+
 ### Semifinals
 
 **[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing)**
