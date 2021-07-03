@@ -58,6 +58,31 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing)**
+
+- FreeMod
+  - [Oohashi Ayaka - NOISY LOVE POWER (\[Crz\]Serika) \[Fight for Love!! \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1046203#mania/2187192)
+  - [Chroma - I (Raveille) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/739919#mania/1561119)
+  - [Various Artist - Rachel's Hard Jack Pack (Paranoia Lv.26 (Marathon)) \[\[Crz\]Rachel\]]( https://osu.ppy.sh/beatmapsets/998210#mania/2087898)
+  - [Lime - 8bit Voyager (Muses) \[LN Voyager \[Kamikaze edit\]\]](https://osu.ppy.sh/beatmapsets/1327056#mania/3004121)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595136)
+  - [Kairiki Bear & MARETU feat. Hatsune Miku - Inai Inai Izonshou (Ayase Eli)\[Ticle's Hierarchie\]](https://osu.ppy.sh/beatmapsets/1462717#mania/3004798)
+  - [Rissyuu feat. Cyoko - Take (Ayase Eli) \[xz1z1z's Challenge\]](https://osu.ppy.sh/beatmapsets/1323263#mania/2852089)
+  - [Squarion - Fallen Kingdom (Claren) \[The Kingdom Is In Ruins... (SV)\]]( https://osu.ppy.sh/beatmapsets/1431250#mania/2946215)
+  - [YOASOBI - Ano Yume o Nazotte (Muses) \[Fall into the Night\]](https://osu.ppy.sh/beatmapsets/1135500#mania/2474910)
+  - [Train - 50 Ways to Say Goodbye (\[Crz\]xz1z1z) \[Muses was my everything\]]( https://osu.ppy.sh/beatmapsets/1459444#mania/2998939)
+  - [Feryquitous - Arcahv (Abraxos) \[Rend\]]( https://osu.ppy.sh/beatmapsets/1184106#mania/2468487)
+  - [Aoi Eir - Cynthia No Hikari (Ayase Eli) \[arpia97's Illumination 4K 1.21x\]](https://osu.ppy.sh/beatmapsets/1462729#mania/3004812)
+  - [Shiraishi - True Millennium Queen (Muses) \[Scathach\]]( https://osu.ppy.sh/beatmapsets/1461646#mania/3002911)
+  - [Saitama Saisyu Heiki - L.L. Infinite Beating.ver (\[Illustrious\]) \[320% 1.1x\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
+  - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
+  - [ONE – Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmapsets/708785#mania/1498464)
+- Tiebreaker
+  - [Camellia vs. lapix - Solvicious (Mameyodoufu Remix) (Dubstek) \[Cybernetic Extinction\]](https://osu.ppy.sh/beatmapsets/933845#mania/1949498)
+
+
 ### Quarterfinals
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing)**
@@ -75,8 +100,8 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [Honda Michiyo - close your eyes (\[Crz\]xz1z1z) \[Charoi's Beginner 1.1x\]](https://osu.ppy.sh/beatmapsets/1454360#mania/2989810)
   - [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
   - [Sangatsu no Phantasia – Rendezvous (Muses) \[Jump! Peace! Shine! \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1453455#mania/2988127)
-  - [SHK - Wedding Crashers (\[Crz\]xz1z1z) \[NTR\]](https://osu.ppy.sh/beatmapsets/)
-  - [sakuraburst – anticrystal (spooky) \[Mipha-\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
+  - [SHK - Wedding Crashers (\[Crz\]xz1z1z) \[NTR\]](https://osu.ppy.sh/beatmapsets/1454389#mania/2989898)
+  - [sakuraburst – anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
 - Tiebreaker
   - [rejection - Signal (feat. Such) (Mameyodoufu Remix) (\[OSC\]Amagai) \[ Keen Perception \[Revised Again\]\]](https://osu.ppy.sh/beatmapsets/1404380#mania/2993544)
 
