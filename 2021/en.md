@@ -68,7 +68,7 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [Various Artist - Rachel's Hard Jack Pack (Paranoia Lv.26 (Marathon)) \[\[Crz\]Rachel\]]( https://osu.ppy.sh/beatmapsets/998210#mania/2087898)
   - [Lime - 8bit Voyager (Muses) \[LN Voyager \[Kamikaze edit\]\]](https://osu.ppy.sh/beatmapsets/1327056#mania/3004121)
   - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595136)
-  - [Kairiki Bear & MARETU feat. Hatsune Miku - Inai Inai Izonshou (Ayase Eli)\[Ticle's Hierarchie\]](https://osu.ppy.sh/beatmapsets/1462717#mania/3004798)
+  - [Kairiki Bear & MARETU feat. Hatsune Miku - Inai Inai Izonshou (Ayase Eli) \[Ticle's Hierarchie\]](https://osu.ppy.sh/beatmapsets/1462717#mania/3004798)
   - [Rissyuu feat. Cyoko - Take (Ayase Eli) \[xz1z1z's Challenge\]](https://osu.ppy.sh/beatmapsets/1323263#mania/2852089)
   - [Squarion - Fallen Kingdom (Claren) \[The Kingdom Is In Ruins... (SV)\]]( https://osu.ppy.sh/beatmapsets/1431250#mania/2946215)
   - [YOASOBI - Ano Yume o Nazotte (Muses) \[Fall into the Night\]](https://osu.ppy.sh/beatmapsets/1135500#mania/2474910)
