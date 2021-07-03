@@ -65,7 +65,7 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 - FreeMod
   - [Oohashi Ayaka - NOISY LOVE POWER (\[Crz\]Serika) \[Fight for Love!! \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1046203#mania/2187192)
   - [Chroma - I (Raveille) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/739919#mania/1561119)
-  - [Various Artist - Rachel's Hard Jack Pack (Paranoia Lv.26 (Marathon)) \[\[Crz\]Rachel\]]( https://osu.ppy.sh/beatmapsets/998210#mania/2087898)
+  - [Various Artist - Rachel's Hard Jack Pack (\[Crz\]Rachel\]) \[Paranoia Lv.26 (Marathon)\](https://osu.ppy.sh/beatmapsets/998210#mania/2087898)
   - [Lime - 8bit Voyager (Muses) \[LN Voyager \[Kamikaze edit\]\]](https://osu.ppy.sh/beatmapsets/1327056#mania/3004121)
   - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595136)
   - [Kairiki Bear & MARETU feat. Hatsune Miku - Inai Inai Izonshou (Ayase Eli) \[Ticle's Hierarchie\]](https://osu.ppy.sh/beatmapsets/1462717#mania/3004798)
