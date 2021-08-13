@@ -299,8 +299,7 @@ This competition has come to an end and resulted in the following podium:
 | **murorachi** | **5** | 4 | \[Crz\]Makii | [#1](https://osu.ppy.sh/community/matches/81997759) |
 | \[1552828\] | 0 | **5** | **spensll** | [#1](https://osu.ppy.sh/community/matches/81997619) |
 | **MsD_Mafufu** | **5** | 0 | Joylintp | [#1](https://osu.ppy.sh/community/matches/82177009) |
-
-
+| Sern888 | 0 | 0 | Littlesheep37 | *win by default* |
 
 ## Ruleset
 
