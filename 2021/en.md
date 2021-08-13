@@ -47,7 +47,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
 | Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
-| Statistician | ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156), ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Statistician | ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156), ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
 
