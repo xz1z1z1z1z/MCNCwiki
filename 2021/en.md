@@ -183,6 +183,103 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [Synthwulf - Passacaglia (\[Illustrious\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/1409526#mania/2906275)
   - [Applesoda - Tales of Pumpnia (\[Crz\]xz1z1z) \[Battle\]](https://osu.ppy.sh/beatmapsets/1418376#mania/2922271)
 
+## Match results
+
+### Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **U1d** | **7** | 0 | MsD_Mafufu | *win by default* |
+| **yuwenhao1** | **7** | 4 | Ha0201 | [#1](https://osu.ppy.sh/community/matches/85806522) |
+| **yuwenhao1** | **7** | 2 | U1d | [#1](https://osu.ppy.sh/community/matches/85927717) |
+| **\[Crz\]Caicium** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/85929706) |
+| **\[Crz\]sunnyxxy** | **7** | 3 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/86292551) |
+| \[Crz\]Caicium | 4 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/86361944) |
+| \[Crz\]Caicium | 3 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/86365187) 
+
+### Semifinals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Irone OSU | 0 | **7** | **Ha0201** | [#1](https://osu.ppy.sh/community/matches/83623070) |
+| **\[Crz\]sunnyxxy** | **7** | 3 | **U1d** | [#1](https://osu.ppy.sh/community/matches/83691737) |
+| Yana Feiya | 0 | **7** | **\[Rweiru\]** | *win by default* |
+| yuwenhao1 | 2 | **7** | **\[Crz\]Caicium** | [#1](https://osu.ppy.sh/community/matches/84030240) |
+| **MsD_Mafufu** | **7** | 5 | \[Rweiru\] | [#1](https://osu.ppy.sh/community/matches/84480806) |
+| gzdongsheng | 0 | **7** | **Ha0201** | [#1](https://osu.ppy.sh/community/matches/84555810) |
+| **MsD_Mafufu** | **7** | 0 | MCPXiaoBai | *win by default* |
+| [Crz]Liusecy | 0 | **7** | **gzdongsheng** | *win by default* |
+
+### Quarterfinals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MCPXiaoBai** | **6** | 2 | \[Paw\]Chuixing | [#1](https://osu.ppy.sh/community/matches/83394250) |
+| Irone OSU | 0 | **6** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/62290117) |
+| MsD_Mafufu | 3 | **6** | **[Crz]Caicium** | [#1](https://osu.ppy.sh/community/matches/83467939) |
+| **Ha0201** | **6** | 0 | \[Crz\]macaoleaf | *win by default* |
+| **yuwenhao1** | **6** | 3 | Yana Feiya | [#1](https://osu.ppy.sh/community/matches/83470730) |
+| shade0214 | 0 | **6** | **gzdongsheng** | [#1](https://osu.ppy.sh/community/matches/83470730) |
+| **U1d** | **6** | 1 | \[Crz\]Liusecy | [#1](https://osu.ppy.sh/community/matches/83477738) |
+| **\[Rweiru\]** | **6** | 0 | karzexcc | *win by default* |
+
+### Round of 16
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[Crz\]Caicium** | **6** | 1 | [Crz]macaoleaf | [#1](https://osu.ppy.sh/community/matches/82672651) |
+| **\[Crz\]Liusecy** | **6** | 0 | karzexcc | *win by default* |
+| **Irone OSU** | **6** | 3 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/82833219) |
+| \[Rweiru\] | 0 | **6** | **U1d** | [#1](https://osu.ppy.sh/community/matches/82923373) |
+| **yuwenhao1** | **6** | 0 | shade0214 | *win by default* |
+| Ha0201 | 4 | **6** | **MsD_Mafufu** | [#1](https://osu.ppy.sh/community/matches/82919114) |
+| **\[Crz\]sunnyxxy** | **6** | 0 | \[Paw\]Chuixing | [#1](https://osu.ppy.sh/community/matches/82928188) |
+| **Yana Feiya** | **6** | 2 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/82929574) |
+
+### Group stage
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[Crz\]Caicium** | **5** | 1 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/81572198) |
+| **\[Crz\]Caicium** | **5** | 0 | Molli | [#1](https://osu.ppy.sh/community/matches/81575767) |
+| **\[Crz\]sunnyxxy** | **5** | 0 | Sillyp | [#1](https://osu.ppy.sh/community/matches/81653325) |
+| **\[Crz\]sunnyxxy** | **5** | 1 | MSD_Mafufu | [#1](https://osu.ppy.sh/community/matches/81656386) |
+| **yuwenhao1** | **5** | 0 | ketsuyo233 | [#1](https://osu.ppy.sh/community/matches/81657719) |
+| Sillyp | 0 | **5** | **MsD_Mafufu** | [#1](https://osu.ppy.sh/community/matches/81659028) |
+| gluefly | 1 | **5** | **Irone OSU** | [#1](https://osu.ppy.sh/community/matches/81658993) |
+| U1d | 3 | **5** | **Yana Feiya** | [#1](https://osu.ppy.sh/community/matches/81658921) |
+| **Yana Feiya** | **5** | 0 | murorachi | [#1](https://osu.ppy.sh/community/matches/81661033) |
+| **\[Crz\]macaoleaf** | **5** | 3 | gluefly | [#1](https://osu.ppy.sh/community/matches/81661029) |
+| murorachi | 0 | **5** | **U1d** | [#1](https://osu.ppy.sh/community/matches/81663065) |
+| Lucas_Kan | 3 | **5** | **\[Rweiru\]** | [#1](https://osu.ppy.sh/community/matches/81665236) |
+| **Ha0201** | **5** | 0 | \[Paw\]Chuixing | [#1](https://osu.ppy.sh/community/matches/81667544) |
+| Lucas_Kan | 1 | **5** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/81668704) |
+| \[JbL\]Hx\_032 | 0 | **5** | **\[Crz\]Caicium** | [#1](https://osu.ppy.sh/community/matches/81670334) |
+| **yuwenhao1** | **5** | 2 | karzexcc | [#1](https://osu.ppy.sh/community/matches/81670242) |
+| **yuwenhao1** | **5** | 0 | observer233 | [#1](https://osu.ppy.sh/community/matches/81673951) |
+| **Irone OSU** | **5** | 0 | \[Crz\]macaoleaf | [#1](https://osu.ppy.sh/community/matches/81673389) |
+| **Molli** | **5** | 0 | \[JbL\]Hx\_032 | [#1](https://osu.ppy.sh/community/matches/81673096) |
+| **MCPXiaoBai** | **5** | 3 | \[JbL\]Hx\_032 | [#1](https://osu.ppy.sh/community/matches/81678940) |
+| **Joylintp** | **5** | 0 | Sillyp | [#1](https://osu.ppy.sh/community/matches/81745198) |
+| - xiaoluoli - | 0 | **5** | **gzdongsheng** | [#1](https://osu.ppy.sh/community/matches/81747783) |
+| Molli | 2 | **5** | **MCPXiaoBai** | [#1](https://osu.ppy.sh/community/matches/81749543) |
+| Lucas_Kan | 3 | **5** | **gzdongsheng** | [#1](https://osu.ppy.sh/community/matches/81750807) |
+| observer233 | 0 | **5** | **karzexcc** | [#1](https://osu.ppy.sh/community/matches/81758822) |
+| **\[Rweiru\]** | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/81759366) |
+| shade0214 | 1 | **5** | **\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81758857) |
+| Joylintp | 2 | **5** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/81761705) |
+| spensll | 0 | **5** |**\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81761677) |
+| **\[Rweiru\]** | **5** | 3 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/81763496) |
+| \[1552828\] | 2 | **5** | **\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81765240) |
+| **U1d** | **5** | 0 | \[Crz\]Makii | [#1](https://osu.ppy.sh/community/matches/81831190) |
+| **ketsuyo233** | **5** | 2 | observer233 | [#1](https://osu.ppy.sh/community/matches/81838133) |
+| spensll | 3 | **5** | **shade0214** | [#1](https://osu.ppy.sh/community/matches/81911498) |
+| **karzexcc** | **5** | 0 | ketsuyo233 | [#1](https://osu.ppy.sh/community/matches/81916515) |
+| \[Crz\]Makii | 0 | **5** | **Yana Feiya** | [#1](https://osu.ppy.sh/community/matches/81917676) |
+| **murorachi** | **5** | 4 | \[Crz\]Makii | [#1](https://osu.ppy.sh/community/matches/81997759) |
+| \[1552828\] | 0 | **5** | **spensll** | [#1](https://osu.ppy.sh/community/matches/81997619) |
+| **MsD_Mafufu** | **5** | 0 | Joylintp | [#1](https://osu.ppy.sh/community/matches/82177009) |
+
 ## Ruleset
 
 ### Tournament rules
