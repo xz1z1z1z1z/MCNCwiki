@@ -2,13 +2,14 @@
 tags:
   - MCNC
   - MCNC2021
+  - MCNC 2021
 ---
 
 # osu!mania 4K Chinese National Cup 2021
 
 ![MCNC 2021 logo](img/logo.png)
 
-The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the third installment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -36,7 +37,7 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 
 ## Organisation
 
-The osu!mania 4K Chinese National Cup 2021 is run by various community members.
+The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,7 +55,29 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1260175)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord Server](https://discord.gg/uBHK5vq)
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC2021)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU)**
+
+## Participants
+
+
+
+### Groups
+
+
+
+### Podium and bracket
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+
+![MCNC 2021 podium](img/podium.png)
+![MCNC 2021 bracket](img/bracket.png)
 
 ## Mappools
 
@@ -82,7 +105,6 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 - Tiebreaker
   - [Camellia - NIGHTMARE CITY (\[Crz\]xz1z1z) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1486342#mania/3047677)
 
-
 ### Semifinals
 
 **[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing)**
@@ -107,7 +129,6 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 - Tiebreaker
   - [Camellia vs. lapix - Solvicious (Mameyodoufu Remix) (Dubstek) \[Cybernetic Extinction\]](https://osu.ppy.sh/beatmapsets/933845#mania/1949498)
 
-
 ### Quarterfinals
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing)**
@@ -129,7 +150,6 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
   - [sakuraburst – anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
 - Tiebreaker
   - [rejection - Signal (feat. Such) (Mameyodoufu Remix) (\[OSC\]Amagai) \[ Keen Perception \[Revised Again\]\]](https://osu.ppy.sh/beatmapsets/1404380#mania/2993544)
-
 
 ### Round of 16
 
@@ -202,7 +222,7 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Irone OSU | 0 | **7** | **Ha0201** | [#1](https://osu.ppy.sh/community/matches/83623070) |
-| **\[Crz\]sunnyxxy** | **7** | 3 | **U1d** | [#1](https://osu.ppy.sh/community/matches/83691737) |
+| **\[Crz\]sunnyxxy** | **7** | 3 | U1d | [#1](https://osu.ppy.sh/community/matches/83691737) |
 | Yana Feiya | 0 | **7** | **\[Rweiru\]** | *win by default* |
 | yuwenhao1 | 2 | **7** | **\[Crz\]Caicium** | [#1](https://osu.ppy.sh/community/matches/84030240) |
 | **MsD_Mafufu** | **7** | 5 | \[Rweiru\] | [#1](https://osu.ppy.sh/community/matches/84480806) |
@@ -280,6 +300,8 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 | \[1552828\] | 0 | **5** | **spensll** | [#1](https://osu.ppy.sh/community/matches/81997619) |
 | **MsD_Mafufu** | **5** | 0 | Joylintp | [#1](https://osu.ppy.sh/community/matches/82177009) |
 
+
+
 ## Ruleset
 
 ### Tournament rules
@@ -339,3 +361,5 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
