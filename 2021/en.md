@@ -34,7 +34,8 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-b
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter tag |
-![MCNC 2021 winner badge](img/172-80.jpg)
+
+![MCNC 2021 winner badge](img/172-80.png)
 
 ## Organisation
 
