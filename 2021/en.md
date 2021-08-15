@@ -76,8 +76,8 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 
-![MCNC 2021 podium](img/podium.png)
-![MCNC 2021 bracket](img/bracket.png)
+![MCNC 2021 podium](img/podium.jpg)
+![MCNC 2021 bracket](img/bracket.jpg)
 
 ## Mappools
 
