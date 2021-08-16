@@ -62,11 +62,49 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ## Participants
 
-
+| Seed | Player |
+| :-: | :-- |
+| #1 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
+| #2 | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
+| #3 | ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538) |
+| #4 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) |
+| #5 | ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409) |
+| #6 | ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) |
+| #7 | ![][flag_CN] [shade0214](https://osu.ppy.sh/users/14665128) |
+| #8 | ![][flag_CN] [observer233](https://osu.ppy.sh/users/15303552) |
+| #9 | ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158) |
+| #10 | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| #11 | ![][flag_TW] [\[Rweiru\]](https://osu.ppy.sh/users/11234907) |
+| #12 | ![][flag_HK] [MCPXiaoBai](https://osu.ppy.sh/users/11259611) |
+| #13 | ![][flag_CN] [ketsuyo233](https://osu.ppy.sh/users/13844875) |
+| #14 | ![][flag_HK] [Lucas\_Kan](https://osu.ppy.sh/users/15755065) |
+| #15 | ![][flag_TW] [murorachi](https://osu.ppy.sh/users/8682905) |
+| #16 | ![][flag_CN] [\[Crz\]Liusecy](https://osu.ppy.sh/users/9082105) |
+| #17 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
+| #18 | ![][flag_CN] [karzexcc](https://osu.ppy.sh/users/5144698) |
+| #19 | ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772) |
+| #20 | ![][flag_CN] [MsD_Mafufu](https://osu.ppy.sh/users/10884561) |
+| #21 | ![][flag_CN] [\[1552828\]](https://osu.ppy.sh/users/8208288) |
+| #22 | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
+| #23 | ![][flag_CN] [\[JbL\]Hx_032](https://osu.ppy.sh/users/11603156) |
+| #24 | ![][flag_HK] [Yana Feiya](https://osu.ppy.sh/users/7802517) |
+| #25 | ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881) |
+| #26 | ![][flag_CN] [Sern888](https://osu.ppy.sh/users/2089244) |
+| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) |
+| #28 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
+| #29 | ![][flag_CN] [\[Paw\]Chuixing](https://osu.ppy.sh/users/14906054) |
+| #30 | ![][flag_TW] [Ha0201](https://osu.ppy.sh/users/12243730) |
+| #31 | ![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078) |
+| #32 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
 
 ### Groups
 
-
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| yuwenhao1 | \[Crz\]Caicium | \[Rweiru\] | \[Crz\]sunnyxxy | Ha0201 | Yana Feiya | Irone OSU | \[Crz\]Liusecy |
+| karzexcc | MCPXiaoBai | gzdongsheng | MsD_Mafufu | \[Paw\]Chuixing | U1d | \[Crz\]macaoleaf | shade0214 |
+| ketsuyo233 | Molli | - xiaoluoli - | Joylintp | Sern888 | murorachi | gluefly | spensll |
+| observer233 | \[JbL\]Hx_032 | Lucas\_Kan | Sillyp | Littlesheep37 | \[Crz\]Makii | 4kGameBye | \[1552828\] |
 
 ### Podium and bracket
 
