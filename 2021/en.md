@@ -90,7 +90,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | #24 | ![][flag_HK] [Yana Feiya](https://osu.ppy.sh/users/7802517) |
 | #25 | ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881) |
 | #26 | ![][flag_CN] [Sern888](https://osu.ppy.sh/users/2089244) |
-| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) | [flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) | 
 | #28 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
 | #29 | ![][flag_CN] [\[Paw\]Chuixing](https://osu.ppy.sh/users/14906054) |
 | #30 | ![][flag_TW] [Ha0201](https://osu.ppy.sh/users/12243730) |
@@ -402,3 +402,4 @@ This competition has come to an end and resulted in the following podium:
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
