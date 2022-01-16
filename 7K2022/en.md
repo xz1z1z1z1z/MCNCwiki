@@ -117,77 +117,63 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ### Tournament rules
 
-1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
-   - *Notice: While this competition has been planned as a 3 versus 3 setup, this might change depending on the amount of registrations.*
+1. The osu!mania 7K Chinese National Cup is a head-to-head individual tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Score V2.
-3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
-   - Each mappool, except for the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+3. The beatmaps for each round will be announced by the Mappool Selector Team before the actual matches take place.
+   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referees are available at match time, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
+6.  Failed players scores will be considered a loss, even its higher than the opponent.
    - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
-8. If a game ends in a draw it will be nullified and the beatmap replayed, herein called a *rematch*.
-9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
+   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. Beatmaps must not be reused in the same match, except for rematches.
-11. **The maximum size for a team is 6 players, and the minimum is 4.**
-    - This might change depending on the amount of registrations.
-12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
-13. Exchanging players during games is allowed without limitations.
-14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied.
-15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
-16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-17. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
-19. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-20. Penalties for violating the tournament rules include, but are not limited to:
-    - Exclusion of specific players for one beatmap.
-    - Exclusion of specific players for an entire match.
-    - Declaring the match as forfeited, or as a win by default for the other team.
-    - Disqualification from the entire tournament.
-    - Disqualification from the current and future official tournaments, until appealed.
-21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+9. Beatmaps must not be reused in the same match, except for rematches.
+10. If player is not present at match time, it can be postponed for up to 10 minutes. If, after this period, there is still not appear, a win by default will be declared for the player present.
+11. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
+13. Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches.
+14. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+15. 15. Penalties for violating the tournament rules include, but are not limited to:
+   - Directly judge the score of one beatmap.
+   - Declaring the match as forfeited, or as a win by default for the other player.
+   - Disqualification from the entire tournament.
+   - Disqualification from the current and future official tournaments, until appealed.
+16. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+17. The Tournament Management reserves the right to refuse any and all suspicious accounts/players entry into the tournament.
+18. Players must abide to the osu! terms of service.
 
 ### Tournament registration
 
-1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management will declare one candidate captain of their country's team.
-2. The declared captain will then form their team from the candidate list of their country.
-   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-   - Captains are allowed to exclude themselves from the team list.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
-   - Captains may choose, with the approval of the Tournament Management, to delegate their role to other prospective team members.
-3. To ensure valid and serious registrations, every registered user will be manually checked by the Tournament Management.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 and up on the global osu!mania 4K performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-4. All successfully formed teams will be published after the Registration Phase.
-   - A team should have at least 3 players registered to have the chance to play the Qualifier stage.
-   - The top 32 seeded teams will qualify to the Round of 32.
-5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
+1. There is no rank range for this tournament, players from all skill levels are free to participate.
+2. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the territories listed above is eligible for playing.
+3. To be eligible for playing, one must:
+   - Have not been banned/majorly restricted in the MCNC.
+   - Pass a background check by osu!staff and the tournament staff.
+   - Include the answer "我不是管人痴" in the question "Do you have anything else to say?".
+   - To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! Staff to check.
+5. All successfully formed players will be published after the Registration Phase.
+6. Organisers, mappoolers and referees must not participate as a player in the tournament.
 
 ### Qualifier instructions
 
-1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The Qualifier pool contains 8 maps, all of which will use FreeMod rules.
-3. Teams will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
-4. The mappool will be played in the order listed above.
-5. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
+1. There will be no warmups during the qualifier stage.
+2. In the Qualifier stage, all players will play a specific pool designed by the map selectors.
+3. The Qualifier pool contains 5 maps, all of which will use FreeMod rules.
+4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
+5. The mappool will be played in the order listed above.
 6. There will be an optional 5-minute break in between the first and second play-through of the mappool.
-7. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
-8. The top 32 seeded teams will advance to the Round of 32.
+7. All players will play their qualifiers in separate rooms. We suggest players not to broadcast or share their results to avoid seed manipulation.
+8. The top 16 seeded players will advance to the Round of 16 (If have enough players there will be Round of 32).
 
 ### Stage instructions
 
-1. Following the Qualifier stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing team gets moved to the losers' bracket.
-2. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
-3. Teams that lose a match in the losers' bracket get eliminated from the tournament.
+1. Following the Qualifier stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing player gets moved to the losers' bracket.
+2. Players in the losers’ bracket must play 2 matches each weekend starting from the Quarterfinals.
+3. Players that lose a match in the losers' bracket get eliminated from the tournament.
 
 #### Win conditions
 
@@ -199,46 +185,36 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K2021: (TeamRed) vs (TeamBlue)".
-   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team in the entire match.
-3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-4. Each captain must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
-5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
-   - For the first occurrence:
-     - The team will receive a verbal warning from the referee
-   - On subsequent occurrences:
-     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
-   - Repeat offenders may receive further sanctions from the Tournament Management.
-   - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional, and is not required to be used*.
-6. Results of the Qualifiers Stage will be published via a Statistics sheet.
+   - Room settings are osu!mania, Head-to-Head., Win Condition: 'ScoreV2'. Room name must be "MCNC7K2021: (Red) vs (Blue)".
+   - The player mentioned first in the room name must be the red, the player mentioned second in the room name must be the blue.
+2. Each player can ban one beatmap to be selected from the pool. These beatmaps can not be picked by any player in the entire match.
+3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
+4. Each player must use !roll once in #multiplayer.
+   - The winner of the !roll starts picking the first beatmap of the match.
+   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted, for the second occurrence: a random map will be chosen from the mappool using !roll X, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
+6. Players will be given at most 3-minute pause for solving unexpected situations.
+7. Results of the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
 
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps
-   - Round of 32: 12 beatmaps
-   - Round of 16 and Quarterfinals: 14 beatmaps
-   - Semifinals and Finals: 16 beatmaps
+   - Qualifiers: 5 beatmaps
+   - Round of 16(RO32): 10 beatmaps
+   - Quarterfinals: 12 beatmaps
+   - Semifinals : 14 beatmaps
+   - Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions
 
-1. Each stage will be held on **a single weekend**.
-2. All matches will be held on either a Saturday or Sunday, UTC+0.
-3. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform the Tournament Management before Sunday, if you expect a specific time slot to be unavailable in the following week. The Tournament Management will try to accommodate all wishes, but makes no promises.
-4. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday, 23:59 UTC of that particular week when your match takes place.**
-5. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for rescheduling unless it is absolutely needed. The Tournament Management reserves the right to decline any rescheduling requests.**
-6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+1. Each stage will be held on a single weekend(include Friday). It could be held on weekdays if each players required, but not recommend.
+2. The schedule is decided by the players discussing with each other. All match times must be communicated to the Tournament Management two days prior to the actual match. If not informed, Tournament Management will decide the game time at his own discretion. The daily schedule will be released the day before.
+3. If player need to make a temporary change after decide the game time. Rescheduling can only be considered with the consent of both players, and the scheduled time must be at least 1 day after informing the event party.
 
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
