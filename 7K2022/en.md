@@ -35,7 +35,7 @@ tags:
 
 - FreeMod
   - [ProjectG - Regain (tyrcs) \[Stage 1: Paranoia\]](https://osu.ppy.sh/beatmapsets/1675958#mania/3423740)
-  - [Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.) (Cut Ver.) (\_Stan) \[Stage 2: Rebellion\](https://osu.ppy.sh/beatmapsets/1675959#mania/3423741)
+  - [Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.) (Cut Ver.) (\_Stan) \[Stage 2: Rebellion\]](https://osu.ppy.sh/beatmapsets/1675959#mania/3423741)
   - [Yu-Peng Chen@HOYO-MiX - Rage Beneath the Mountains (Madoka2574) \[Stage 3: Erosion\]](https://osu.ppy.sh/beatmapsets/1654388#mania/3423739)
   - [Nhato - Virus Funk (\_Stan) \[Stage 4: Pulse\]](https://osu.ppy.sh/beatmapsets/1675957#mania/3423737)
   - [t+pazolite - You are the Miserable (tyrcs) \[Stage 5: Regret\]](https://osu.ppy.sh/beatmapsets/1675960#mania/3423742)
