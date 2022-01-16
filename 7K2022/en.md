@@ -10,12 +10,35 @@ tags:
 
 ## Tournament schedule
 
+| Event | Timestamp |
+| --: | :-- |
+| Registration phase | 2021-03-01/2021-03-31 |
+| Qualifiers | 2022-01-21/2022-01-23 |
+| Live drawings |  |
+| Group Stage week 1 |  |
+| Group Stage week 2 |  |
+| Round of 16 | 2022-01-28/2022-01-30 |
+| Quarterfinals | 2022-02-04/2022-02-06 |
+| Semifinals week 1 |  |
+| Semifinals week 2 |  |
+| Finals week 1 |  |
+| Finals week 2 |  |
 
 ## Prizes
 
 
 ## Organisation
 
+The osu!mania 7K Chinese National Cup 2022 was run by various community members.
+
+| Position | Member(s) |
+| :-- | :-- |
+| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Mappool selector |  |
+| Commentator |  |
+| Designer |  |
+| Referee | [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
+| Statistician | [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
 
@@ -28,17 +51,6 @@ tags:
 ![](img/podium.jpg "MCNC 7K 2022 podium")
 
 ## Mappools
-
-### Qualifiers
-
-**[Download the mappack here! (28 MB)](https://drive.google.com/file/d/1s1O5ZHM9feVK5H1sbSZTMu1V23B3UFKP/view?usp=sharing)**
-
-- FreeMod
-  - [ProjectG - Regain (tyrcs) \[Stage 1: Paranoia\]](https://osu.ppy.sh/beatmapsets/1675958#mania/3423740)
-  - [Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.) (Cut Ver.) (\_Stan) \[Stage 2: Rebellion\]](https://osu.ppy.sh/beatmapsets/1675959#mania/3423741)
-  - [Yu-Peng Chen@HOYO-MiX - Rage Beneath the Mountains (Madoka2574) \[Stage 3: Erosion\]](https://osu.ppy.sh/beatmapsets/1654388#mania/3423739)
-  - [Nhato - Virus Funk (\_Stan) \[Stage 4: Pulse\]](https://osu.ppy.sh/beatmapsets/1675957#mania/3423737)
-  - [t+pazolite - You are the Miserable (tyrcs) \[Stage 5: Regret\]](https://osu.ppy.sh/beatmapsets/1675960#mania/3423742)
 
 ### Finals
 
@@ -57,6 +69,14 @@ tags:
 
 ### Qualifiers
 
+**[Download the mappack here! (28 MB)](https://drive.google.com/file/d/1s1O5ZHM9feVK5H1sbSZTMu1V23B3UFKP/view?usp=sharing)**
+
+- FreeMod
+  - [ProjectG - Regain (tyrcs) \[Stage 1: Paranoia\]](https://osu.ppy.sh/beatmapsets/1675958#mania/3423740)
+  - [Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.) (Cut Ver.) (\_Stan) \[Stage 2: Rebellion\]](https://osu.ppy.sh/beatmapsets/1675959#mania/3423741)
+  - [Yu-Peng Chen@HOYO-MiX - Rage Beneath the Mountains (Madoka2574) \[Stage 3: Erosion\]](https://osu.ppy.sh/beatmapsets/1654388#mania/3423739)
+  - [Nhato - Virus Funk (\_Stan) \[Stage 4: Pulse\]](https://osu.ppy.sh/beatmapsets/1675957#mania/3423737)
+  - [t+pazolite - You are the Miserable (tyrcs) \[Stage 5: Regret\]](https://osu.ppy.sh/beatmapsets/1675960#mania/3423742)
 
 ## Match results
 
