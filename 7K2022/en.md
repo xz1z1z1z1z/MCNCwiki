@@ -137,7 +137,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
 13. Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches.
 14. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-15. 15. Penalties for violating the tournament rules include, but are not limited to:
+15. Penalties for violating the tournament rules include, but are not limited to:
    - Directly judge the score of one beatmap.
    - Declaring the match as forfeited, or as a win by default for the other player.
    - Disqualification from the entire tournament.
