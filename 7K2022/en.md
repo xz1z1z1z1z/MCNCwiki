@@ -12,7 +12,7 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-03-01/2021-03-31 |
+| Registration phase | 2021-12-16/2021-12-26 |
 | Qualifiers | 2022-01-21/2022-01-23 |
 | Live drawings |  |
 | Group Stage week 1 |  |
