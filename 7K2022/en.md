@@ -31,7 +31,7 @@ tags:
 
 ### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
+**[Download the mappack here! (28 MB)](https://drive.google.com/file/d/1s1O5ZHM9feVK5H1sbSZTMu1V23B3UFKP/view?usp=sharing)**
 
 - FreeMod
   - [ProjectG - Regain (tyrcs) \[Stage 1: Paranoia\]](https://osu.ppy.sh/beatmapsets/1675958#mania/3423740)
