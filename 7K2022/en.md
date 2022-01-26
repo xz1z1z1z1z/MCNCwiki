@@ -221,3 +221,4 @@ The final standings for the Qualifier stage can be found at the following [sprea
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
