@@ -116,14 +116,9 @@ Detailed statistics for this round can be found [here]().
 Detailed statistics for this round can be found [here]().
 
 
-### Round of 32
-
-Detailed statistics for this round can be found [here]().
-
-
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](). Detailed statistics for this round can be found [here]().
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ngKERywxshfCBk0BvVznJBrgaTMbNo10_pyxBYXlpTk/edit#gid=2094719552). Detailed statistics for this round can be found [here]().
 
 ## Ruleset
 
