@@ -34,10 +34,11 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector |  |
-| Commentator |  |
-| Designer |  |
-| Referee | [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
+| Mappool selector | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [Madoka2574](8819336), ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229), ![][flag_CN] [tyrcs](https://osu.ppy.sh/users/13026904), ![][flag_BR] [Sillyfangirl] |
+| Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
+| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921) ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Statistician | [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
