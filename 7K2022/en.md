@@ -70,7 +70,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (49 MB)](https://drive.google.com/file/d/1zJBAjOG1PuLD4NSrQm92Wsf_k3FBz-wY/view?usp=sharing)
+**[Download the mappack here! (49 MB)](https://drive.google.com/file/d/1zJBAjOG1PuLD4NSrQm92Wsf_k3FBz-wY/view?usp=sharing)**
 
 - FreeMod
   - [yak_won - Lucid \[tyrcs' Luminous\]](https://osu.ppy.sh/beatmapsets/1680378#mania/3432837)
@@ -82,10 +82,8 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
   - [aaaa - Machi \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
   - [Sweet Licious - Who Do You Love? \[Normal LN\]](https://osu.ppy.sh/beatmapsets/738924#mania/1559409)
   - [Se-U-Ra - LOSHAXI \[INSANE\]](https://osu.ppy.sh/beatmapsets/1057963#mania/2219003)
-
 - Tiebreaker
   - [Hua Ling / Miao*Jiang / Yan Ning / kinsen - Let the Wind Tell You \[#1 Team's Let #1 Tell U\]](https://osu.ppy.sh/beatmapsets/1678305#mania/3428823)
-
 
 ### Qualifiers
 
