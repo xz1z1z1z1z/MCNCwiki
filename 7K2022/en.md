@@ -73,17 +73,17 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 **[Download the mappack here! (49 MB)](https://drive.google.com/file/d/1zJBAjOG1PuLD4NSrQm92Wsf_k3FBz-wY/view?usp=sharing)**
 
 - FreeMod
-  - [yak_won - Lucid \[tyrcs' Luminous\]](https://osu.ppy.sh/beatmapsets/1680378#mania/3432837)
-  - [Mili - Ikutoshitsuki \[Hard\]](https://osu.ppy.sh/beatmapsets/1427571#mania/2939409)
-  - [Cream puff - Mermaid girl \[sakana\]](https://osu.ppy.sh/beatmapsets/762991#mania/1604080)
-  - [Flower - Taiyou to Himawari \[Himawari\]](https://osu.ppy.sh/beatmapsets/452912#mania/971432)
-  - [S-C-U feat. Qrispy Joybox - anemone \[Kawa & Julie's 7K Extra\]](https://osu.ppy.sh/beatmapsets/283841#mania/672098)
-  - [Silentroom - Nhelv \[Insane\]](https://osu.ppy.sh/beatmapsets/1369072#mania/2839581)
-  - [aaaa - Machi \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
-  - [Sweet Licious - Who Do You Love? \[Normal LN\]](https://osu.ppy.sh/beatmapsets/738924#mania/1559409)
-  - [Se-U-Ra - LOSHAXI \[INSANE\]](https://osu.ppy.sh/beatmapsets/1057963#mania/2219003)
+  - [yak_won - Lucid (Madoka2574) \[tyrcs' Luminous\]](https://osu.ppy.sh/beatmapsets/1680378#mania/3432837)
+  - [Mili - Ikutoshitsuki (Flexo123) \[Hard\]](https://osu.ppy.sh/beatmapsets/1427571#mania/2939409)
+  - [Cream puff - Mermaid girl (qodtjr) \[sakana\]](https://osu.ppy.sh/beatmapsets/762991#mania/1604080)
+  - [Flower - Taiyou to Himawari (Degeneracy) \[Himawari\]](https://osu.ppy.sh/beatmapsets/452912#mania/971432)
+  - [S-C-U feat. Qrispy Joybox - anemone (Julie) \[Kawa & Julie's 7K Extra\]](https://osu.ppy.sh/beatmapsets/283841#mania/672098)
+  - [Silentroom - Nhelv (Blocko) \[Insane\]](https://osu.ppy.sh/beatmapsets/1369072#mania/2839581)
+  - [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
+  - [Sweet Licious - Who Do You Love? (erika77) \[Normal LN\]](https://osu.ppy.sh/beatmapsets/738924#mania/1559409)
+  - [Se-U-Ra - LOSHAXI (-mint-) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1057963#mania/2219003)
 - Tiebreaker
-  - [Hua Ling / Miao*Jiang / Yan Ning / kinsen - Let the Wind Tell You \[#1 Team's Let #1 Tell U\]](https://osu.ppy.sh/beatmapsets/1678305#mania/3428823)
+  - [Hua Ling / Miao\*Jiang / Yan Ning / kinsen - Let the Wind Tell You (\[Crz\]xz1z1z) \[#1 Team's Let #1 Tell U\]](https://osu.ppy.sh/beatmapsets/1678305#mania/3428823)
 
 ### Qualifiers
 
