@@ -64,6 +64,22 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ### Semifinals
 
+- FreeMod
+  - [xi - Glorious Crown (\[Crz\]xz1z1z) \[tyrcs' Coronation\]](https://osu.ppy.sh/beatmapsets/1693386#mania/3460249)
+  - [lapix – Nexta (Imperial Wolf) \[7K GRAVITY\]](https://osu.ppy.sh/beatmapsets/749049#mania/1577814)
+  - [Nanahira - Looking For A New Adventure (Kim\_GodSSI) \[NANANAYANA\]](https://osu.ppy.sh/beatmapsets/589927#mania/1248633)
+  - [Nanou - Better Off Alone Anjuna Remix (Flexo123) \[Alone\]](https://osu.ppy.sh/beatmapsets/983799#mania/2058535)
+  - [-12insomnia- - Gravity Blast (MEIDAN) \[Unusual\]](https://osu.ppy.sh/beatmapsets/1498277#mania/3070756)
+  - [YUC'e - Sunset Tea Cup (Reba) \[Candy Land\]](https://osu.ppy.sh/beatmapsets/892594#mania/1865785)
+  - [ZONE-SAMA - Ankha Zone (merchee) \[That Cat Is Not Dancing\]](https://osu.ppy.sh/beatmapsets/1596804#mania/3261289)
+  - [Laur – Exitium (tyrcs) \[Extra\]](https://osu.ppy.sh/beatmapsets/1675996#mania/3423802)
+  - [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (arcwinolivirus) \[7K 'My KuraAngel' Arc\]](https://osu.ppy.sh/beatmapsets/1688903#mania/3451367)
+  - [Yu_Asahina – Trickstarz (Evening) \[Sorcery\]](https://osu.ppy.sh/beatmapsets/1312853#mania/2720856)
+  - [Ponkichi - Hyakka Sagikage to Shiro Tokkuri (Wilben\_Chan) \[NSV\]](https://osu.ppy.sh/beatmapsets/1049339#mania/3442092)
+  - [D(ABE3) – MANIERA (iJinjin) \[Collab Another\]](https://osu.ppy.sh/beatmapsets/272871#mania/667031)
+  - [Akiyama Uni - Kaoru Juyouka (Wilben\_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1690024#mania/3458234)
+- Tiebreaker
+  - [Camellia - Looking for Edge of Ground (tyrcs) \[One pioneer's Curiosity\]](https://osu.ppy.sh/beatmapsets/1560424#mania/3187056)
 
 ### Quarterfinals
 
