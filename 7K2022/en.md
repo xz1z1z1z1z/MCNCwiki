@@ -64,6 +64,8 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ### Semifinals
 
+**[Download the mappack here! (140 MB)](https://drive.google.com/file/d/1vnjiuWKQRyO2-HCS1P-aS9J6Ein-Jzvo/view?usp=sharing)**
+
 - FreeMod
   - [xi - Glorious Crown (\[Crz\]xz1z1z) \[tyrcs' Coronation\]](https://osu.ppy.sh/beatmapsets/1693386#mania/3460249)
   - [lapix – Nexta (Imperial Wolf) \[7K GRAVITY\]](https://osu.ppy.sh/beatmapsets/749049#mania/1577814)
