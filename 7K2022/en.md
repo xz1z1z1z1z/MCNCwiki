@@ -67,6 +67,22 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ### Quarterfinals
 
+**[Download the mappack here! (78 MB)](https://drive.google.com/file/d/1QM_Fkqbu7TLdUe_qUglVocGaIFfr66YJ/view?usp=sharing)**
+
+- FreeMod
+  - [Gram – Nibelungen (Critical\_Star) \[Extra\]](https://osu.ppy.sh/beatmapsets/1553319#mania/3173651)
+  - [Yu-Peng Chen @HOYO-MiX - Qilin's Prance (Kuo Kyoka) \[The Clement | Finale\]](https://osu.ppy.sh/beatmapsets/1684792#mania/3442364)
+  - [AAAA - Hiyokko Santa to Yuki no Machi (Maxus) \[Reindeer Akasha's Another\]](https://osu.ppy.sh/beatmapsets/1617344#mania/3312408)
+  - [M2U & NICODE - Loadstar (Wilben\_Chan) \[Moonstar\]](https://osu.ppy.sh/beatmapsets/867748#mania/1813926)
+  - [Memme – Uranus (qodtjr) \[Neptune\]](https://osu.ppy.sh/beatmapsets/746714#mania/1573714)
+  - [Air Carnival - Ka Tong Dui Bai (\_Stan) \[Unreal 1.1x \[132bpm\]\]](https://osu.ppy.sh/beatmapsets/628470#mania/3445535)
+  - [Maksim Mrvica - Croatian Rhapsody (Wilben\_Chan) \[Lunatic x1.1\]](https://osu.ppy.sh/beatmapsets/1684539#mania/3441883)
+  - [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (\_Stan) \[Exploration\]]( https://osu.ppy.sh/beatmapsets/1685886#mania/3445529)
+  - [YUC'e - Cinderella Syndrome (KafuuChino) \[Affection\]]( https://osu.ppy.sh/beatmapsets/728088#mania/1537244)
+  - [ExileLord - Speed Test (Cut Ver.) (\_Stan) \[Overbrim\]]( https://osu.ppy.sh/beatmapsets/1685889#mania/3445532)
+  - [HO-KAGO TEA TIME - Tenshi ni Fureta yo! (Asterisk DnB Remix) (Kawawa) \[WAWACORE!!\]](https://osu.ppy.sh/beatmapsets/853402#mania/1783610)
+- Tiebreaker
+  - [Camellia - FM Synthesis Experiment (AncuL) \[Oscillation\]](https://osu.ppy.sh/beatmapsets/1132164#mania/2364828)
 
 ### Round of 16
 
