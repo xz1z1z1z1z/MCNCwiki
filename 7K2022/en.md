@@ -52,6 +52,8 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ## Participants
 
+| Seed | Player |
+| :-: | :-- |
 | #1 | ![][flag_CN] [Liangiaiajan](https://osu.ppy.sh/users/5144698) |
 | #2 | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
 | #3 | ![][flag_CN] [Krn3](https://osu.ppy.sh/users/12452291) |
