@@ -78,7 +78,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
   11. [BilliumMoto - life flashes before weeb eyes (Kim\_GodSSI) \[lnfinity 0.9x\]](https://osu.ppy.sh/beatmapsets/1459457#mania/2998954)
   12. [Kanae Tachibana composed by nmk - Toshoshitsu no Eruza (LackPoints) \[Souzou (140 bpm)\]](https://osu.ppy.sh/beatmapsets/1153523#mania/2416230)
   13. [Hatsuki Yura - Halloween of the Dead 2 ~ A night mare of a long night ~ (Kim\_GodSSI) \[Spooky\]](https://osu.ppy.sh/beatmapsets/854978#mania/1786527)
-  14. [katagiri - Angel's Salad ('Le mythe etendu' ver.) (tyrcs) \[Proof of Existence (edit) \[170bpm]\]](https://osu.ppy.sh/beatmapsets/1698180#mania/3480193)
+  14. [katagiri - Angel's Salad ('Le mythe etendu' ver.) (tyrcs) \[Proof of Existence (edit) \[170bpm\]\]](https://osu.ppy.sh/beatmapsets/1698180#mania/3480193)
   15. [katagiri - Sendan Life (katagiri Bootleg) (Flexo123) \[FlexCORE!@# // 7k\]](https://osu.ppy.sh/beatmapsets/1449322#mania/2980010)
 - Tiebreaker
   1. [katagiri - Palace of Melancholia (tyrcs) \[Desolation\]](https://osu.ppy.sh/beatmapsets/1703329#mania/3480215)
