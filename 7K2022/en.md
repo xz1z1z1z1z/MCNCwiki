@@ -65,7 +65,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 
 - FreeMod
-  1. [nao - Towa naru Kizuna to Omoi no Kiseki (\[Crz\]Satori) \[Insane (edit) \[255bpm]\]](https://osu.ppy.sh/beatmapsets/1703293#mania/3480143)
+  1. [nao - Towa naru Kizuna to Omoi no Kiseki (\[Crz\]Satori) \[Insane (edit) \[255bpm\]\]](https://osu.ppy.sh/beatmapsets/1703293#mania/3480143)
   2. [Tezuka x Qayo – NINI (Wilben\_Chan) \[Death(edit)\]](https://osu.ppy.sh/beatmapsets/1654058#mania/3477520)
   3. [Ujico*/Snail's house – Dhalia (- A s u s a -) \[D-flat Major style lvl. 70\]](https://osu.ppy.sh/beatmapsets/1200282#mania/2499565)
   4. [samfree - Euthanasia (LostCool) \[Paradise\]](https://osu.ppy.sh/beatmapsets/1609389#mania/3286135)
