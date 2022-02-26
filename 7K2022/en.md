@@ -38,7 +38,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921) ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Statistician | [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
@@ -47,8 +47,8 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1475423)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord Server](https://discord.gg/uBHK5vq)
-- [Challonge bracket]()
-- **[Statistics sheet]()**
+- [Challonge bracket](https://challonge.com/MCNC7k2022)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCFZcnECZEFBCoWVqwmY2_75j_IQ4vrvF3V07-U4ON-iM1FQyeVfvOvWl0eWwTC0j6Bmg07zsqBmyZ/pubhtml)**
 
 ## Participants
 
@@ -59,7 +59,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | #3 | ![][flag_CN] [Krn3](https://osu.ppy.sh/users/12452291) |
 | #4 | ![][flag_CN] [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
 | #5 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
-| #6 | ![][flag_CN] [Rain 7](https://osu.ppy.sh/users/9787146) |
+| #6 | ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146) |
 | #7 | ![][flag_CN] [LeartLey](https://osu.ppy.sh/users/10512663) |
 | #8 | ![][flag_CN] [Residual pain](https://osu.ppy.sh/users/8021339) |
 | #9 | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
@@ -174,21 +174,53 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 Detailed statistics for this round can be found [here]().
 
+### Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Krn3** | **7** | 1 | IllIlllIIlIIlIl| [#1](https://osu.ppy.sh/community/matches/98161045) |
+| **4kGameBye** | **7** | 1 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/98200751) |
+|  |  |  | Krn3 | [#1]() |
+| LiangIaiajan |  |  | U1d | [#1]() |
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here]().
-
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **yuwenhao1** | **6** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/97608455) |
+| **My Angel Yukee7** | **6** | 4 | Residual pain | [#1](https://osu.ppy.sh/community/matches/97683923) |
+| **Elton Tong** | 6 | 0 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/97695817) |
+| **IllIlllIIlIIlIl** | 0 | -1 | LeartLey | *Win by Default* |
+| **U1d** | **6** | 0 | Krn3 | [#1](https://osu.ppy.sh/community/matches/97836878) |
+| My Angel Yukee7 | 5 | **6** | **Elton Tong** | [#1](https://osu.ppy.sh/community/matches/97905407) |
+| **LiangIaiajan** | **0** | -1 | 4kGameBye | *Win by Default* |
+| **IllIlllIIlIIlIl** | **6** | 4 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97981824) |
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here]().
-
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| katiexie | 0 | **5** | **LeartLey** | [#1](https://osu.ppy.sh/community/matches/97418600) |
+| **Krn3** | **5** | 4 | Rain 7 | [#1](https://osu.ppy.sh/community/matches/97420861) |
+| Phukiir | 0 | **5** | **idqoos123** | [#1](https://osu.ppy.sh/community/matches/97451631) |
+| IllIlllIIlIIlIl | -1 | **0** | **4kGameBye** | *Win by Default* |
+| **LiangIaiajan** | **5** | 0 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97463473) |
+| **U1d* | **5** | 0 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/97500804) |
+| IA daisuki | -1 | **0** | **Residual pain** | *Win by Default* |
+| Zyuuu | 0 | **5** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/97502069) |
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here]().
-
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **U1d** | **4** | 0 | katiexie | [#1](https://osu.ppy.sh/community/matches/97047894) |
+| **Krn3** | **4** | 0 | Phukiir | [#1](https://osu.ppy.sh/community/matches/97125781) |
+| **4kGameBye** | **4** | 3	| - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/97130269) |
+| **LiangIaiajan** | **4** | 0 | IA daisuki | [#1](https://osu.ppy.sh/community/matches/97134412) |
+| **IllIlllIIlIIlIl** | **4** | 0 | Zyuuu | [#1](https://osu.ppy.sh/community/matches/97134268) |
+| Residual pain	| 3 | **4** | **yuwenhao1** | [#1](https://osu.ppy.sh/community/matches/97135803) |
+| LeartLey | 1 | **4** | **Elton Tong** | [#1](https://osu.ppy.sh/community/matches/97137493) |
+| **Rain 7* | **4** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/97176994) |
 
 ### Qualifiers
 
