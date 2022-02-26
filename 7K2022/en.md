@@ -220,7 +220,7 @@ Detailed statistics for this round can be found [here]().
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCFZcnECZEFBCoWVqwmY2_75j_IQ4vrvF3V07-U4ON-iM1FQyeVfvOvWl0eWwTC0j6Bmg07zsqBmyZ/pubhtml#). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTi6wXWLEUfv-be5SZfqL3BOMHT-eunYBINJyh0rGAvooQawh7BnHQtL1bfPWhXvBmUWMhbCA0tIi-5/pubhtml#).
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ngKERywxshfCBk0BvVznJBrgaTMbNo10_pyxBYXlpTk/pubhtml#). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTi6wXWLEUfv-be5SZfqL3BOMHT-eunYBINJyh0rGAvooQawh7BnHQtL1bfPWhXvBmUWMhbCA0tIi-5/pubhtml#).
 
 ## Ruleset
 
