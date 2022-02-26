@@ -16,7 +16,7 @@ tags:
 | Qualifiers | 2022-01-21/2022-01-23 |
 | Round of 16 | 2022-01-27/2022-01-30 |
 | Quarterfinals | 2022-02-54/2022-02-07 |
-| Semifinals week | 2022-02-10/2022-02-20 |
+| Semifinals | 2022-02-10/2022-02-20 |
 | Finals | 2022-02-25/2022-02-27 |
 | Grand Finals |  |
 
