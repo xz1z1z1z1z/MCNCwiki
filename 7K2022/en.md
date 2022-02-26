@@ -14,15 +14,11 @@ tags:
 | --: | :-- |
 | Registration phase | 2021-12-6/2021-12-26 |
 | Qualifiers | 2022-01-21/2022-01-23 |
-| Live drawings |  |
-| Group Stage week 1 |  |
-| Group Stage week 2 |  |
-| Round of 16 | 2022-01-28/2022-01-30 |
-| Quarterfinals | 2022-02-04/2022-02-06 |
-| Semifinals week 1 |  |
-| Semifinals week 2 |  |
-| Finals week 1 |  |
-| Finals week 2 |  |
+| Round of 16 | 2022-01-27/2022-01-30 |
+| Quarterfinals | 2022-02-54/2022-02-07 |
+| Semifinals week | 2022-02-10/2022-02-20 |
+| Finals | 2022-02-25/2022-02-27 |
+| Grand Finals |  |
 
 ## Prizes
 
