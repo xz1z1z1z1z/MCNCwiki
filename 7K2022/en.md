@@ -52,6 +52,23 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ## Participants
 
+| #1 | ![][flag_CN] [Liangiaiajan](https://osu.ppy.sh/users/5144698) |
+| #2 | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
+| #3 | ![][flag_CN] [Krn3](https://osu.ppy.sh/users/12452291) |
+| #4 | ![][flag_CN] [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
+| #5 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
+| #6 | ![][flag_CN] [Rain 7](https://osu.ppy.sh/users/9787146) |
+| #7 | ![][flag_CN] [LeartLey](https://osu.ppy.sh/users/10512663) |
+| #8 | ![][flag_CN] [Residual pain](https://osu.ppy.sh/users/8021339) |
+| #9 | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| #10 | ![][flag_HK] [Elton Tong](https://osu.ppy.sh/users/14885132) |
+| #11 | ![][flag_MO] [idqoos123](https://osu.ppy.sh/users/3946113) |
+| #12 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
+| #13 | ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275) |
+| #14 | ![][flag_CN] [Phukiir](https://osu.ppy.sh/users/4556538) |
+| #15 | ![][flag_CN] [katiexie](https://osu.ppy.sh/users/5908765) |
+| #16 | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| #17 | ![][flag_CN] [PJH165F](https://osu.ppy.sh/users/25181396) |
 
 ## Podium
 
