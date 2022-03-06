@@ -170,14 +170,21 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 Detailed statistics for this round can be found [here]().
 
+### Grand Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| U1d | 6 | **7** | **4kGameBye** | [#1](https://osu.ppy.sh/community/matches/98427124) |
+| **LiangIaiajan** | **7** | 1 | 4kGameBye | [#1](https://osu.ppy.sh/community/matches/98469574) |
+
 ### Finals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Krn3** | **7** | 1 | IllIlllIIlIIlIl| [#1](https://osu.ppy.sh/community/matches/98161045) |
 | **4kGameBye** | **7** | 1 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/98200751) |
-|  |  |  | Krn3 | [#1]() |
-| LiangIaiajan |  |  | U1d | [#1]() |
+| **4kGameBye** | **7** | 2 | Krn3 | [#1](https://osu.ppy.sh/community/matches/98234203) |
+| **LiangIaiajan** | **7** | 1 | U1d | [#1](https://osu.ppy.sh/community/matches/98238908) |
 
 ### Semifinals
 
@@ -216,7 +223,7 @@ Detailed statistics for this round can be found [here]().
 | **IllIlllIIlIIlIl** | **4** | 0 | Zyuuu | [#1](https://osu.ppy.sh/community/matches/97134268) |
 | Residual pain	| 3 | **4** | **yuwenhao1** | [#1](https://osu.ppy.sh/community/matches/97135803) |
 | LeartLey | 1 | **4** | **Elton Tong** | [#1](https://osu.ppy.sh/community/matches/97137493) |
-| **Rain 7* | **4** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/97176994) |
+| **Rain 7** | **4** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/97176994) |
 
 ### Qualifiers
 
