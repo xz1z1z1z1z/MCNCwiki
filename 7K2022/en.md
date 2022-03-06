@@ -18,7 +18,7 @@ tags:
 | Quarterfinals | 2022-02-54/2022-02-07 |
 | Semifinals | 2022-02-10/2022-02-20 |
 | Finals | 2022-02-25/2022-02-27 |
-| Grand Finals |  |
+| Grand Finals | 2022-03-05/2022-02-06 |
 
 ## Prizes
 
@@ -167,8 +167,6 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
   5. [t+pazolite - You are the Miserable (tyrcs) \[Stage 5: Regret\]](https://osu.ppy.sh/beatmapsets/1675960#mania/3423742)
 
 ## Match results
-
-Detailed statistics for this round can be found [here]().
 
 ### Grand Finals
 
