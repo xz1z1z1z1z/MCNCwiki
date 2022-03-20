@@ -77,7 +77,16 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ## Podium
 
-![](img/podium.jpg "MCNC 7K 2022 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [LiangIaiajan](https://osu.ppy.sh/users/5144698) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
+
+![MCNC 7K 2022 podium](img/podium.jpg)
+![MCNC 7K 2022 bracket](img/bracket.jpg)
 
 ## Mappools
 
