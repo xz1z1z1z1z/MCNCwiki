@@ -22,6 +22,15 @@ tags:
 
 ## Prizes
 
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ￥400 per team member, 4-month osu!supporter, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ￥200 per team member, 2-month osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ￥100 per team member, 1-month osu!supporter |
+
+![](img/mcnc7k-2022-badge-1st.jpg "MCNC 7K 2022 winner badge")
 
 ## Organisation
 
@@ -168,14 +177,8 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 ## Match results
 
-### Grand Finals
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| U1d | 6 | **7** | **4kGameBye** | [#1](https://osu.ppy.sh/community/matches/98427124) |
-| **LiangIaiajan** | **7** | 1 | 4kGameBye | [#1](https://osu.ppy.sh/community/matches/98469574) |
-
 ### Finals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU8s3x78vGpHI-W0_mB4kgPkhQjwlVixssPkpgI_NeVaEe7L6X3mr14XwhJZ57_cz117oWnYKd4jMz/pubhtml)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -183,8 +186,11 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | **4kGameBye** | **7** | 1 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/98200751) |
 | **4kGameBye** | **7** | 2 | Krn3 | [#1](https://osu.ppy.sh/community/matches/98234203) |
 | **LiangIaiajan** | **7** | 1 | U1d | [#1](https://osu.ppy.sh/community/matches/98238908) |
+| U1d | 6 | **7** | **4kGameBye** | [#1](https://osu.ppy.sh/community/matches/98427124) |
+| **LiangIaiajan** | **7** | 1 | 4kGameBye | [#1](https://osu.ppy.sh/community/matches/98469574) |
 
 ### Semifinals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSORxBOHSj5MIaAW2drd4tNCta0_RzH5E_dfPIinAtgSPyXvweSjcyU9k-ex7qRn1Keydto5e-fWuAA/pubhtml)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -198,6 +204,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | **IllIlllIIlIIlIl** | **6** | 4 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97981824) |
 
 ### Quarterfinals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9HXA5T49mOKUNI3DtSR58lSzBWs6qEmZ3lIvkkVOrmLE42uGlDV8MlsrjT8fGuG89JQ3nWyElkTYh/pubhtml)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -211,6 +218,7 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 | Zyuuu | 0 | **5** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/97502069) |
 
 ### Round of 16
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEMoEyyyVraHgC0q8CqWMY5n3UyCkLEc9qhn2dfVaK9_iYInc58wt2GX8CIDZA-oUb-Ega24hzL4R4/pubhtml)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
