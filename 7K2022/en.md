@@ -22,8 +22,6 @@ tags:
 
 ## Prizes
 
-## Prizes
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ￥400 per team member, 4-month osu!supporter, profile badge |
