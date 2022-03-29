@@ -18,7 +18,7 @@ tags:
 | Quarterfinals | 2022-02-54/2022-02-07 |
 | Semifinals | 2022-02-10/2022-02-20 |
 | Finals | 2022-02-25/2022-02-27 |
-| Grand Finals | 2022-03-05/2022-02-06 |
+| Grand Finals | 2022-03-05/2022-03-06 |
 
 ## Prizes
 
