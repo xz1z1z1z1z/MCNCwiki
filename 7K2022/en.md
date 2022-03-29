@@ -12,7 +12,7 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-12-6/2021-12-26 |
+| Registration Phase | 2021-12-6/2021-12-26 |
 | Qualifiers Mappool Showcase | 2022-01-16 |
 | Qualifiers | 2022-01-21/2022-01-23 |
 | Round of 16 | 2022-01-27/2022-01-30 |
