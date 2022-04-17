@@ -328,7 +328,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 5 beatmaps
-   - Round of 16(RO32): 10 beatmaps
+   - Round of 16: 10 beatmaps
    - Quarterfinals: 12 beatmaps
    - Semifinals : 14 beatmaps
    - Finals: 16 beatmaps
