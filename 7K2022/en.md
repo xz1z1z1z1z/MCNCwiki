@@ -217,7 +217,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | Phukiir | 0 | **5** | **idqoos123** | [#1](https://osu.ppy.sh/community/matches/97451631) |
 | IllIlllIIlIIlIl | -1 | **0** | **4kGameBye** | *Win by Default* |
 | **LiangIaiajan** | **5** | 0 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97463473) |
-| **U1d* | **5** | 0 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/97500804) |
+| **U1d** | **5** | 0 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/97500804) |
 | IA daisuki | -1 | **0** | **Residual pain** | *Win by Default* |
 | Zyuuu | 0 | **5** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/97502069) |
 
