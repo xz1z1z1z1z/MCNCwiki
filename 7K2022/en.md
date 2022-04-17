@@ -200,11 +200,11 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | --: | :-: | :-: | :-- | :-- |
 | **yuwenhao1** | **6** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/97608455) |
 | **My Angel Yukee7** | **6** | 4 | Residual pain | [#1](https://osu.ppy.sh/community/matches/97683923) |
-| **Elton Tong** | 6 | 0 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/97695817) |
-| **IllIlllIIlIIlIl** | 0 | -1 | LeartLey | *Win by Default* |
+| **Elton Tong** | **6** | 0 | - Xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/97695817) |
+| **IllIlllIIlIIlIl** | **6** | 0 | LeartLey | *Win by Default* |
 | **U1d** | **6** | 0 | Krn3 | [#1](https://osu.ppy.sh/community/matches/97836878) |
 | My Angel Yukee7 | 5 | **6** | **Elton Tong** | [#1](https://osu.ppy.sh/community/matches/97905407) |
-| **LiangIaiajan** | **0** | -1 | 4kGameBye | *Win by Default* |
+| **LiangIaiajan** | **6** | 0 | 4kGameBye | *Win by Default* |
 | **IllIlllIIlIIlIl** | **6** | 4 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97981824) |
 
 ### Quarterfinals
@@ -215,10 +215,10 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | katiexie | 0 | **5** | **LeartLey** | [#1](https://osu.ppy.sh/community/matches/97418600) |
 | **Krn3** | **5** | 4 | Rain 7 | [#1](https://osu.ppy.sh/community/matches/97420861) |
 | Phukiir | 0 | **5** | **idqoos123** | [#1](https://osu.ppy.sh/community/matches/97451631) |
-| IllIlllIIlIIlIl | -1 | **0** | **4kGameBye** | *Win by Default* |
+| IllIlllIIlIIlIl | 0 | **5** | **4kGameBye** | *Win by Default* |
 | **LiangIaiajan** | **5** | 0 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/97463473) |
 | **U1d** | **5** | 0 | Elton Tong | [#1](https://osu.ppy.sh/community/matches/97500804) |
-| IA daisuki | -1 | **0** | **Residual pain** | *Win by Default* |
+| IA daisuki | 0 | **5** | **Residual pain** | *Win by Default* |
 | Zyuuu | 0 | **5** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/97502069) |
 
 ### Round of 16
