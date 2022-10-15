@@ -42,20 +42,10 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
 | Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961), ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229), ![][flag_ID][eZmmR](https://osu.ppy.sh/users/8647138) |
-
-
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [FcEazy](https://osu.ppy.sh/users/7825227), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
-
-
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
-
-
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-
-
 | Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [FcEazy](https://osu.ppy.sh/users/7825227), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
-
-
 | Statistician | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
@@ -255,7 +245,7 @@ This competition has come to an end and resulted in the following podium:
 2. [YAHPP – Chimera (\[Crz\]xz1z1z) \[Why dont u just get up and dance man\]](https://osu.ppy.sh/beatmapsets/1620443#mania/3308589)
 3. [HiTECH NINJA vs Cranky - BREaK! BREaK! BREaK! (Raveille) \[LN! RiCE! HYBRiD!\]](https://osu.ppy.sh/beatmapsets/1458754#mania/2997750)
 - Difficulty
-1. [MNZ- Augmentation feat. Moe Shop (kleemLO Bootleg Edit) (My Angel Koishi) \[Sar4CORE!\](https://osu.ppy.sh/beatmapsets/1419246#mania/2924084)
+1. [MNZ- Augmentation feat. Moe Shop (kleemLO Bootleg Edit) (My Angel Koishi) \[Sar4CORE!\]](https://osu.ppy.sh/beatmapsets/1419246#mania/2924084)
 - SV
 1. [Masafumi Takada - Re: Underground Trial (Paturages) \[Sentence Vote\]](https://osu.ppy.sh/beatmapsets/1477429#mania/3031259)
 2. [Nizikawa - Bass Battle (vs. Freezer) (Tidek) \[Encounter\]](https://osu.ppy.sh/beatmapsets/1374142#mania/2840693)
@@ -270,8 +260,8 @@ This competition has come to an end and resulted in the following podium:
 1. [E-Type - This ls The Way (Jole) \[short way\]](https://osu.ppy.sh/beatmapsets/1435426#mania/3000972)
 2. [DJ SHARPNEL- STRANGEPROGRAM (Shoegazer) \[Malfunction\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888756)
 3. [DJ SHARPNEL- Kaze no Naka no Subaru"Hyougenshatachi~ (Jole) \[subarushii\]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116)
-4.[ F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
-5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm]\](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
+4. [ F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
+5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm]\]](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
 6. [Lolipusher - why as soon as we became so close, we have to say goodbye? (Monheim) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/2415750)
 - LN
 1. [Roselia - A Cruel Angel's Thesis (-Rem-) \[Descendant\]](https://osu.ppy.sh/beatmapsets/1085227#mania/2269384)
