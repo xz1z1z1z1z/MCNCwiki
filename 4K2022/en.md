@@ -151,8 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (291 MB)](https://drive.google.com/file/d/1fZqVc1PPkJvp4QUt2F3eMukLW9vgoDP1/view?usp=sharing)**
 
-- Freemod
-  Rice:
+- Rice
 1. [Ariabl'eyes - Namidasou Outomata (Cut Ver.) (\[Crz\]Alleyne) \[Rachel's Lv.30(Marathon) 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/1827294#mania/3750023)
 2. [Noisestorm - Antihero (Original Mix) (YuEast 2018) \[Ancient\]]( https://osu.ppy.sh/beatmapsets/1813707#mania/3720773)
 3. [Falcom Sound Team jdk - Hard Desperation (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
@@ -160,31 +159,29 @@ This competition has come to an end and resulted in the following podium:
 5. [lmperial Circus Dead Decadence - BRING+EYES=DEATH+INVITE (MintAril) \[sleet\]](https://osu.ppy.sh/beatmapsets/762130#mania/1602426)
 6. [La priere – Kimiyo (frolica) \[Eirini \[16\/cut\]\]](https://osu.ppy.sh/beatmapsets/1710026#mania/3494228)
 7. [7\_7 - Mousou Chikan Express (frolica) \[Persecution Complex [17\]\]](https://osu.ppy.sh/beatmapsets/1756404#mania/3594321)
-LN:
+- LN
 1. [B-ko (Cv:Touyama Nao) - Nisemono Chuuihou (juankristal) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1759390#mania/3600837)
 2. [katagiri - Sendan Life (katagiri Bootleg) (\[Crz\]Alleyne) \[Raveille's NostaLNgia 1.1x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1827506#mania/3750601)
 3. [After the Rain - Anti-Clockwise (eZmmR) \[True Ending\]](https://osu.ppy.sh/beatmapsets/1802781#mania/3696755)
 4. [Camellia – Enantiomorphs (Hylotl)
  \[Diastereomers \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1742086#mania/3561401)
-Hybrid:
+- Hybrid
 1. [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
-2. [Camellia - Dans la mer de son (Toaph Daddy) \[Diabolos x1.1\]](https://osu.ppy.sh/beatmapsets/1443348#mania/2968916) https://osu.ppy.sh/beatmapsets/1338625#mania/2772922
-
+2. [Camellia - Dans la mer de son (Toaph Daddy) \[Diabolos x1.1\]](https://osu.ppy.sh/beatmapsets/1443348#mania/2968916) https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
 3. [TryHardNinja - Revenge (feat. CaptainSparklez) (ReeK's "Dude, What's A Genre?" Remix) (\[Crz\]Alleyne) \[mint's Creeper 1.1x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1827304#mania/3750051)
-Difficulty:
+- Difficulty
 1. [lmperial Circus Dead Decadence – Uta (Evening) \[Everlasting Duet 1.25x\]](https://osu.ppy.sh/beatmapsets/1825157#mania/3745609)
-SV:
+- SV
 1. [Alon Mor - Oselot (TheToaphster) \[Demons\]](https://osu.ppy.sh/beatmapsets/632073#mania/1341876)
 2. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Ciel) \[fn(top=true,sv=true)\]](https://osu.ppy.sh/beatmapsets/1569250#mania/3204545)
-Tiebreaker:
+- Tiebreaker
 1. [Tsukimi Shizuka x LUNARiUM - Fight Against the Past (\[Crz\]xz1z1z) \[Revolution\]](https://osu.ppy.sh/beatmapsets/1828541#mania/3752841)
 
 ### Finals
 
 **[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1vqW9RVc1kdPriSqt7pfHV8Ak0aZpMxzs/view?usp=sharing)**
 
-- FreeMod
-Rice:
+- Rice
 1. [Bassnectar – Undercover (DannyPX) \[Boombox\]](https://osu.ppy.sh/beatmapsets/1358701#mania/2811599)
 2. [Junk - Qualia (\[Crz\]Alleyne) \[XingRen's Hard (Edit) 1.1x\]](https://osu.ppy.sh/beatmapsets/1822087#mania/3738813)
 3. [Sora Tokino - Asu no Yozora Shoukaihan (\[Crz\]Alleyne) \[STEPDWI's Challenge 1.4x\]](https://osu.ppy.sh/beatmapsets/1822379#mania/3739498)
@@ -192,18 +189,18 @@ Rice:
 5. [Tatsh a.k.a. Zeami – Amaterasu (YuEast 2018) \[Challenge LessLN\]](https://osu.ppy.sh/beatmapsets/1536614#mania/3715906)
 6. onoken - P8107 (Madoka2574) \[Inverse Reorganization\](https://osu.ppy.sh/beatmapsets/1393987#mania/2877554)
 7. [onumi – PERSONALITY (Evening) \[MIRAGE OD 8\]](https://osu.ppy.sh/beatmapsets/1234328#mania/3739939)
-LN:
+- LN
 1. [umu. – humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
 2. [ikaruga_nex - gigadelic(m3rkAb4# R3m!x) (riunosk) \[Incandescence 1.05x\]](https://osu.ppy.sh/beatmapsets/1822036#mania/3738622)
 3. [Sakuzyo - PANDORA PARADOXXX (Raveille) \[Epicurus Wisdom\]](https://osu.ppy.sh/beatmapsets/1149516#mania/2399832)
 4. [Feryquitous – Dille (\[Crz\]Crysarlene) \[() => { return H }\]](https://osu.ppy.sh/beatmapsets/1270439#mania/2640148)
-Hybrid:
+- Hybrid
 1. [katagiri - Angel's Salad (lemonguy) \[Challenge x1.05\]](https://osu.ppy.sh/beatmapsets/1757208#mania/3595932)
 2. [ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix ([OSC]Amagai) \[1.2x Edit\]](https://osu.ppy.sh/beatmapsets/1650227#mania/3485172)
 3. [Lime \/ Kankitsu - 8bit voyager (\[Crz\]MemoryI) \[Easy\]](https://osu.ppy.sh/beatmapsets/1393818#mania/2877235)
-Difficulty:
+- Difficulty
 1. [Getty vs. DJ DiA - Drop-Z-Line (Auroyavs) \[Deteriorate\]](https://osu.ppy.sh/beatmapsets/1658896#mania/3386303)
-SV:
+- SV
 1. [edIT – Ants (Toaph Daddy) \[Stage 1: Sting\]](https://osu.ppy.sh/beatmapsets/901864#mania/1882999)
 2. [PSYQUI – Decay (Paturages) \[Sandbag\]](https://osu.ppy.sh/beatmapsets/1617304#mania/3302183)
 - Tiebreaker
@@ -213,7 +210,7 @@ SV:
 
 **[Download the mappack here! (213 MB)](https://drive.google.com/file/d/10fLdTQVlexb5cFMB_Ghdcql3hlQ4Sueq/view?usp=sharing)**
 
-Rice:
+- Rice
 1. [Memme – Bronze (Tsutarja506) \[The Eye \[LN reduced\]\]](https://osu.ppy.sh/beatmapsets/1789771#mania/3726256)
 2. [L.E.D.- THE LAST STRIKER (Shoegazer) \[Annihilation 1.4x (259bpm)\]](https://osu.ppy.sh/beatmapsets/1489054#mania/3059477)
 3. [Sanxion7 - Gargoyle (2009 version) (\[Crz\]xz1z1z) \[1.6km (240bpm)\]](https://osu.ppy.sh/beatmapsets/1815862#mania/3725240)
@@ -221,18 +218,18 @@ Rice:
 5. [M-O-T-U - Red Liquid (Alptraum) \[Dysmenorrhea\]](https://osu.ppy.sh/beatmapsets/1730175#mania/3536001)
 6. [Haruko Momoi - Eiyuu no Uta (Valedict) \[STORM OF BLOOD\]](https://osu.ppy.sh/beatmapsets/1483232#mania/3114832)
 7. [KAYZO\/REAPER\/Qoiet - Wait (feat. Qoiet) (\[Crz\]hinako1804) \[Make'em wait MotherFxxker!!!\]](https://osu.ppy.sh/beatmapsets/1247638#mania/2593222)
-LN:
+- LN
 1. [Function Phantom - Integral Cube (juankristal) \[Limit\]](https://osu.ppy.sh/beatmapsets/1698324#mania/3470046)
 2. [Suzaku vs Genbu – Himiko (MyZterioN-) \[Agonize\]](https://osu.ppy.sh/beatmapsets/1472305#mania/3022237)
 3. [Moon Symphony – Regulus (Raveille) \[Godwink\]](https://osu.ppy.sh/beatmapsets/1592955#mania/3253451)
 4. [penoreri - BLACK SWAN (Raveille) \[Last Ballet\]](https://osu.ppy.sh/beatmapsets/1689947#mania/3453472)
-Hybrid:
+- Hybrid
 1. [xi - Angel's Ladder (lemonguy) \[Ascension to Heaven\]](https://osu.ppy.sh/beatmapsets/1742494#mania/3562153)
 2. [ZxNX – Schadenfreude (_Stan) \[Malicious\]](https://osu.ppy.sh/beatmapsets/1815968#mania/3725474)
 3. [Jay Chou - Greatest Works of Art. (\[Crz\]xz1z1z) \[Alleyne vs xz's Greatest Works of Map 1.1x\]][https://osu.ppy.sh/beatmapsets/1815937#mania/3725375]
-Difficulty:
+- Difficulty
 1. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru- (-mint-) \[Formication (cut)\]](https://osu.ppy.sh/beatmapsets/1800811#mania/3691933)
-SV:
+- SV
 1. [DJPoyoshi – Esperanza (Paturages) \[SVranza\]](https://osu.ppy.sh/beatmapsets/1232159#mania/3067776)
 2. [Eliminate - Weeble Wobble VIP (Orca-) \[Helluvit\]](https://osu.ppy.sh/beatmapsets/1692600#mania/3458605)
 - Tiebreaker
@@ -242,25 +239,24 @@ SV:
 
 **[Download the mappack here! (172 MB)](https://drive.google.com/file/d/1gg_0C_IjJyQxn1vfaVn62pbJ2VcTICsb/view?usp=sharing)**
 
-- FreeMod
-Rice:
+- Rice
 1. [E-Type - Russian Lullaby (Jole) \[blin\]](https://osu.ppy.sh/beatmapsets/1538061#mania/3144687)
 2. [goreshit - thinking of you (hna) \[obsession 1.1x (250bpm)\]](https://osu.ppy.sh/beatmapsets/1395676#mania/3553232)
 3. [Last Note. - Trashy Innocence (\[Crz\]xz1z1z) \[#1 Team's Challenge\]](https://osu.ppy.sh/beatmapsets/1710030#mania/3494237)
 4. [Hayasaka Ai (CV: Yumiri Hanamori) - Kanashikute lulululu (lolol727) \[lulu 1.2x (138bpm)\]](https://osu.ppy.sh/beatmapsets/1811007#mania/3714570)
 5. [lgorrr - Tout Petit Moineau (\[Crz\]Alleyne) \[Wh1teh's Sparrow (Edit)\]](https://osu.ppy.sh/beatmapsets/1810808#mania/3714160)
 6. [katagiri – Dogs (AutotelicBrown) \[Guau Guau\]](https://osu.ppy.sh/beatmapsets/1592967#mania/3253475)
-LN:
+- LN
 1. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
 2. [DJ TOTTO -DORNWALD ~Junge~ (stupud man) \[Anima 1.1x\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3388945)
 3. [john - Shun-ran [Harugakita (Raveille) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1810856#mania/3714245)
-Hybrid:
+- Hybrid
 1. [Juggernaut. - Valkyrius:0 (Penguinosity) \[Impending\]](https://osu.ppy.sh/beatmapsets/1617951#mania/3303402)
 2. [YAHPP – Chimera (\[Crz\]xz1z1z) \[Why dont u just get up and dance man\]](https://osu.ppy.sh/beatmapsets/1620443#mania/3308589)
 3. [HiTECH NINJA vs Cranky - BREaK! BREaK! BREaK! (Raveille) \[LN! RiCE! HYBRiD!\]](htps://osu.ppy.sh/beatmapsets/1458754#mania/2997750)
-Difficulty:
+- Difficulty
 1. [MNZ- Augmentation feat. Moe Shop (kleemLO Bootleg Edit) (My Angel Koishi) \[Sar4CORE!\](https://osu.ppy.sh/beatmapsets/1419246#mania/2924084)
-SV:
+- SV
 1. [Masafumi Takada - Re: Underground Trial (Paturages) \[Sentence Vote\]](https://osu.ppy.sh/beatmapsets/1477429#mania/3031259)
 2. [Nizikawa - Bass Battle (vs. Freezer) (Tidek) \[Encounter\]](https://osu.ppy.sh/beatmapsets/1374142#mania/2840693)
 - Tiebreaker
@@ -270,26 +266,25 @@ SV:
 
 **[Download the mappack here! (166 MB)](https://drive.google.com/file/d/1YIkSmbmRVRLAffl8X7I03Rf_n5ageXOV/view?usp=sharing)**
 
-- FreeMod
-Rice:
+- Rice
 1. [E-Type - This ls The Way (Jole) \[short way\]](https://osu.ppy.sh/beatmapsets/1435426#mania/3000972)
 2. [DJ SHARPNEL- STRANGEPROGRAM (Shoegazer) \[Malfunction\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888756)
 3. [DJ SHARPNEL- Kaze no Naka no Subaru"Hyougenshatachi~ (Jole) \[subarushii\]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116)
 4.[ F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
 5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm]\](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
 6. [Lolipusher - why as soon as we became so close, we have to say goodbye? (Monheim) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/2415750)
-LN:
+- LN
 1. [Roselia - A Cruel Angel's Thesis (-Rem-) \[Descendant\]](https://osu.ppy.sh/beatmapsets/1085227#mania/2269384)
 2. [SYUNN - Cosy Catastrophe (stupud man) \[Typhoon\]](https://osu.ppy.sh/beatmapsets/1393751#mania/2877105)
 3. [seatrus – Raindrop (\[Crz\]FolAH1217) \[RaLNy\]](https://osu.ppy.sh/beatmapsets/1701983#mania/3477685)
-Hybrid:
+- Hybrid
 1. [Tokyo Machine – FLAMES (DannyPX) \[BURNING\]]
 https://osu.ppy.sh/beatmapsets/1303266#mania/2702686
 2. [M2U - Dual Fractal (\[Crz\]xz1z1z) \[Beginner\]](https://osu.ppy.sh/beatmapsets/1588847#mania/3245283)
 3. [cosMo@BousouP - Deux Saint-Co Odyssey!! (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1497081#mania/3143239)
-Difficulty:
+- Difficulty
 1. [Yu-Peng Chen @HOYO-MiX- Raiden Shogun Battle BGM (YuEast 2018) \[1,100,000 kV\]](https://osu.ppy.sh/beatmapsets/1573942#mania/3213608)
-SV:
+- SV
 1. [Mr. Fantastic – Hyperactive (xero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
 2. [Brandy - Cross Time (\[Crz\]xz1z1z) \[yes\]](https://osu.ppy.sh/beatmapsets/1800259#mania/3690749)
 - Tiebreaker
@@ -299,23 +294,22 @@ SV:
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1beml7unyOMcKlfW3fa42ylbYXacNcqfR/view?usp=sharing)**
 
-- FreeMod
-Rice:
+- Rice
 1. [ROKINA (Judah) - F13 (Kamikaze) \[BETRAYAL \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1381647#mania/2854756)
 2. [Yorushika - Deep Indigo (\[Crz\]MemoryI) \[Blue×2\]](https://osu.ppy.sh/beatmapsets/1756567#mania/3594652)
 3. [Hara Sayuri, Haruse Natsumi, Takeda Larissa Tago - Spring Screaming (YuEast 2018) \[Haru\]](https://osu.ppy.sh/beatmapsets/1800105#mania/3690360)
 4. [Sanxion7 – Eternus (\[Crz\]xz1z1z) [Irone OSU's Insane noLN \[1.15x Rate\]](https://osu.ppy.sh/beatmapsets/1800519#mania/3691324)
 5. [Shirobon - Take Me to Pleasure lsland (LeiN-) \[Walrus Pit\]](https://osu.ppy.sh/beatmapsets/1397098#mania/2883272)
 6. [The Flashbulb - Warm Hands In Cold Fog (Toaph Daddy) \[Kotatsu\]](https://osu.ppy.sh/beatmapsets/891315#mania/2965545)
-LN:
+- LN
 1. [WhaleDontSleep - Kinmokusei feat.Ado (MyZterioN-) \[bland\]](https://osu.ppy.sh/beatmapsets/1093877#mania/2286128)
 2. [Maizang - Wind lsland (HowToPlayLN) \[Sound of the storm\]](https://osu.ppy.sh/beatmapsets/985836#mania/2062486)
-Hybrid:
+- Hybrid
 1. [Memme – Uranium (Tailsdk) \[Hyper\]](https://osu.ppy.sh/beatmapsets/872940#mania/2297133)
 2. [Camellia - #1f1e33 (-mint-) \[Insane\]](https://osu.ppy.sh/beatmapsets/1417506#mania/2924904)
-Difficulty:
+- Difficulty
 1. [Five Hummers - FFFFF op.2 (\_Stan) \[4K Violino\]](https://osu.ppy.sh/beatmapsets/597627#mania/2987147)
-SV:
+- SV
 1. [40mP - Dan Dan Hayaku Naru (zero2snow) \[Accelerating\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
 2. [CanBlaster - Tribe Attacker (\[Crz\]xz1z1z) \[Hi-G\]](https://osu.ppy.sh/beatmapsets/1800935#mania/3692481)
 - Tiebreaker
@@ -325,20 +319,19 @@ SV:
 
 **[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1nMTsgWksNaW9clYcHJXO1CU3bFFVYo1c/view?usp=sharing)**
 
-- FreeMod
-Rice:
+- Rice
 1. [Yuki Kajiura - Credens justitiam (Lott) [Song of Justice]](https://osu.ppy.sh/beatmapsets/1784702#mania/3655258)
 2. [Seiryu - AO-INFINITY (Tailsdk) \[White Hard\]](https://osu.ppy.sh/beatmapsets/934974#mania/1951977)
 3. [Falcom Sound Team jdk - Get Over The Barrier! -Roaring Version- (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1558235#mania/3183067)
 4. [Pastel*Palettes - Happy Synthesizer (\[Crz\]xz1z1z) \[Shuwa Shuwa\]](https://osu.ppy.sh/beatmapsets/1784964#mania/3655865)
 5. [M2U – Nemesis (Ryu Sei) \[EX-Hard (NSV)\]](https://osu.ppy.sh/beatmapsets/310547#mania/3681561)
-LN:
+- LN
 1. [fripSide - black bullet (TV size) (Raveille) \[Normal Curse\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069199)
 2. [Mind Vortex – Arc (juankristal) \[Coordination\]](https://osu.ppy.sh/beatmapsets/619512#mania/1305835)
-Hybrid:
+- Hybrid
 1. [Silentroom – NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 2. [BanYa - Mr. Larpus (\_Stan) \[Insane\]](https://osu.ppy.sh/beatmapsets/531641#man–ia/1126590)
-SV:
+- SV
 1. [Dasu – NAKAKAPAGPABAGABAG (lolol727) \[SV\]](https://osu.ppy.sh/beatmapsets/1795215#mania/3679618)
 2. [MAZO - Break It Down (\[Crz\]xz1z1z) \[Break SV Down\]](https://osu.ppy.sh/beatmapsets/1795211#mania/3679613)
 - Tiebreaker
