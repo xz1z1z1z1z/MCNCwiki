@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 2. [DJ SHARPNEL- STRANGEPROGRAM (Shoegazer) \[Malfunction\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888756)
 3. [DJ SHARPNEL- Kaze no Naka no Subaru"Hyougenshatachi~ (Jole) \[subarushii\]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116)
 4. [ F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
-5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm]\]](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
+5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm\]\]](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
 6. [Lolipusher - why as soon as we became so close, we have to say goodbye? (Monheim) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/2415750)
 - LN
 1. [Roselia - A Cruel Angel's Thesis (-Rem-) \[Descendant\]](https://osu.ppy.sh/beatmapsets/1085227#mania/2269384)
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 3. [seatrus – Raindrop (\[Crz\]FolAH1217) \[RaLNy\]](https://osu.ppy.sh/beatmapsets/1701983#mania/3477685)
 - Hybrid
 1. [Tokyo Machine – FLAMES (DannyPX) \[BURNING\]]
-https://osu.ppy.sh/beatmapsets/1303266#mania/2702686
+(https://osu.ppy.sh/beatmapsets/1303266#mania/2702686)
 2. [M2U - Dual Fractal (\[Crz\]xz1z1z) \[Beginner\]](https://osu.ppy.sh/beatmapsets/1588847#mania/3245283)
 3. [cosMo@BousouP - Deux Saint-Co Odyssey!! (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1497081#mania/3143239)
 - Difficulty
