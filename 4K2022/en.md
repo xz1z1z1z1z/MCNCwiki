@@ -249,11 +249,11 @@ This competition has come to an end and resulted in the following podium:
 - LN
 1. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
 2. [DJ TOTTO -DORNWALD ~Junge~ (stupud man) \[Anima 1.1x\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3388945)
-3. [john - Shun-ran [Harugakita (Raveille) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1810856#mania/3714245)
+3. [john - Shun-ran (Raveille) \[Harugakita \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1810856#mania/3714245)
 - Hybrid
 1. [Juggernaut. - Valkyrius:0 (Penguinosity) \[Impending\]](https://osu.ppy.sh/beatmapsets/1617951#mania/3303402)
 2. [YAHPP – Chimera (\[Crz\]xz1z1z) \[Why dont u just get up and dance man\]](https://osu.ppy.sh/beatmapsets/1620443#mania/3308589)
-3. [HiTECH NINJA vs Cranky - BREaK! BREaK! BREaK! (Raveille) \[LN! RiCE! HYBRiD!\]](htps://osu.ppy.sh/beatmapsets/1458754#mania/2997750)
+3. [HiTECH NINJA vs Cranky - BREaK! BREaK! BREaK! (Raveille) \[LN! RiCE! HYBRiD!\]](https://osu.ppy.sh/beatmapsets/1458754#mania/2997750)
 - Difficulty
 1. [MNZ- Augmentation feat. Moe Shop (kleemLO Bootleg Edit) (My Angel Koishi) \[Sar4CORE!\](https://osu.ppy.sh/beatmapsets/1419246#mania/2924084)
 - SV
