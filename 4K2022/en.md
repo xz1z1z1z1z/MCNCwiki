@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 6. [katagiri – Dogs (AutotelicBrown) \[Guau Guau\]](https://osu.ppy.sh/beatmapsets/1592967#mania/3253475)
 - LN
 1. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
-2. [DJ TOTTO -DORNWALD ~Junge~ (stupud man) \[Anima 1.1x\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3388945)
+2. [DJ TOTTO -DORNWALD \~Junge\~ (stupud man) \[Anima 1.1x\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3388945)
 3. [john - Shun-ran (Raveille) \[Harugakita \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1810856#mania/3714245)
 - Hybrid
 1. [Juggernaut. - Valkyrius:0 (Penguinosity) \[Impending\]](https://osu.ppy.sh/beatmapsets/1617951#mania/3303402)
