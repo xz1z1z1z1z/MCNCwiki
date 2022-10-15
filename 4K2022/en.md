@@ -158,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 4. [SHK- Super Fantasy (\[Crz\]xz1z1z) [Super Jacks 1.2x (174bpm)]](https://osu.ppy.sh/beatmapsets/1823684#mania/3742104)
 5. [lmperial Circus Dead Decadence - BRING+EYES=DEATH+INVITE (MintAril) \[sleet\]](https://osu.ppy.sh/beatmapsets/762130#mania/1602426)
 6. [La priere – Kimiyo (frolica) \[Eirini \[16\/cut\]\]](https://osu.ppy.sh/beatmapsets/1710026#mania/3494228)
-7. [7\_7 - Mousou Chikan Express (frolica) \[Persecution Complex [17\]\]](https://osu.ppy.sh/beatmapsets/1756404#mania/3594321)
+7. [7\_7 - Mousou Chikan Express (frolica) \[Persecution Complex \[17\]\]](https://osu.ppy.sh/beatmapsets/1756404#mania/3594321)
 - LN
 1. [B-ko (Cv:Touyama Nao) - Nisemono Chuuihou (juankristal) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1759390#mania/3600837)
 2. [katagiri - Sendan Life (katagiri Bootleg) (\[Crz\]Alleyne) \[Raveille's NostaLNgia 1.1x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1827506#mania/3750601)
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
 4. [penoreri - BLACK SWAN (Raveille) \[Last Ballet\]](https://osu.ppy.sh/beatmapsets/1689947#mania/3453472)
 - Hybrid
 1. [xi - Angel's Ladder (lemonguy) \[Ascension to Heaven\]](https://osu.ppy.sh/beatmapsets/1742494#mania/3562153)
-2. [ZxNX – Schadenfreude (_Stan) \[Malicious\]](https://osu.ppy.sh/beatmapsets/1815968#mania/3725474)
+2. [ZxNX – Schadenfreude (\_Stan) \[Malicious\]](https://osu.ppy.sh/beatmapsets/1815968#mania/3725474)
 3. [Jay Chou - Greatest Works of Art. (\[Crz\]xz1z1z) \[Alleyne vs xz's Greatest Works of Map 1.1x\]][https://osu.ppy.sh/beatmapsets/1815937#mania/3725375]
 - Difficulty
 1. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru- (-mint-) \[Formication (cut)\]](https://osu.ppy.sh/beatmapsets/1800811#mania/3691933)
@@ -323,7 +323,7 @@ https://osu.ppy.sh/beatmapsets/1303266#mania/2702686
 1. [Yuki Kajiura - Credens justitiam (Lott) [Song of Justice]](https://osu.ppy.sh/beatmapsets/1784702#mania/3655258)
 2. [Seiryu - AO-INFINITY (Tailsdk) \[White Hard\]](https://osu.ppy.sh/beatmapsets/934974#mania/1951977)
 3. [Falcom Sound Team jdk - Get Over The Barrier! -Roaring Version- (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1558235#mania/3183067)
-4. [Pastel*Palettes - Happy Synthesizer (\[Crz\]xz1z1z) \[Shuwa Shuwa\]](https://osu.ppy.sh/beatmapsets/1784964#mania/3655865)
+4. [Pastel\*Palettes - Happy Synthesizer (\[Crz\]xz1z1z) \[Shuwa Shuwa\]](https://osu.ppy.sh/beatmapsets/1784964#mania/3655865)
 5. [M2U – Nemesis (Ryu Sei) \[EX-Hard (NSV)\]](https://osu.ppy.sh/beatmapsets/310547#mania/3681561)
 - LN
 1. [fripSide - black bullet (TV size) (Raveille) \[Normal Curse\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069199)
@@ -358,54 +358,54 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-MegMewtwoZ | 1 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/103181729) |
-**Quotient GD** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/103205972) |
+| MegMewtwoZ | 1 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/103181729) |
+| **Quotient GD** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/103205972) |
 
 ### Finals
 Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-finals-statistics-best-performances.html).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-tyrcs | 0 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/103033872) |
-Ricizus | 4 | **7** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/103038463) |
-MegMewtwoZ | 2 | **7** | **Quotient GD** | [#1](https://osu.ppy.sh/community/matches/103038487) |
-**\[Crz\]sunnyxxy** | **0** | -1 | Miyes | *Win by Default* |
+| tyrcs | 0 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/103033872) |
+| Ricizus | 4 | **7** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/103038463) |
+| MegMewtwoZ | 2 | **7** | **Quotient GD** | [#1](https://osu.ppy.sh/community/matches/103038487) |
+| **\[Crz\]sunnyxxy** | **0** | -1 | Miyes | *Win by Default* |
 
 ### Semifinals
 Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-semifinals-statistics-best-performances.html).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-\[Crz\]rebellion | 2 | **7** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/102854895) |
-**\[Crz\]sunnyxxy** | **7** | 1 | \[GB\]Mafufu | [#1](https://osu.ppy.sh/community/matches/102858525) |
-**Kuiiiiteeee** | **7** | 3 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/102862511) |
-**MegMewtwoZ** | **7** | 5 | tyrcs | [#1](https://osu.ppy.sh/community/matches/102863686) |
-**Quotient GD** | **7** | 1 | Ricizus | [#1](https://osu.ppy.sh/community/matches/102864080) |
-**Akermo** | **7** | 4 | \[GB\]Luoxuan0327 | [#1](https://osu.ppy.sh/community/matches/102884020) |
-**\[Crz\]sunnyxxy** | **7** | 0 | Kuiiiiteeee | [#1](https://osu.ppy.sh/community/matches/102885407) |
-Miyes | **0** | -1 | Akermo | *Win by Default* |
+| \[Crz\]rebellion | 2 | **7** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/102854895) |
+| **\[Crz\]sunnyxxy** | **7** | 1 | \[GB\]Mafufu | [#1](https://osu.ppy.sh/community/matches/102858525) |
+| **Kuiiiiteeee** | **7** | 3 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/102862511) |
+| **MegMewtwoZ** | **7** | 5 | tyrcs | [#1](https://osu.ppy.sh/community/matches/102863686) |
+| **Quotient GD** | **7** | 1 | Ricizus | [#1](https://osu.ppy.sh/community/matches/102864080) |
+| **Akermo** | **7** | 4 | \[GB\]Luoxuan0327 | [#1](https://osu.ppy.sh/community/matches/102884020) |
+| **\[Crz\]sunnyxxy** | **7** | 0 | Kuiiiiteeee | [#1](https://osu.ppy.sh/community/matches/102885407) |
+| Miyes | **0** | -1 | Akermo | *Win by Default* |
 
 ### Quarterfinals
 Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-quarterfinals-statistics-best-performances.html).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-**Quotient GD** | **6** | 0 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/102648402) |
-**\[GB\]AelSan** | **6** | 5 | \[GB\]Tyris | [#1](https://osu.ppy.sh/community/matches/102650960) |
-**\[GB\]Luoxuan0327** | **6** | 5 | \[GB\]gluefly | [#1](https://osu.ppy.sh/community/matches/102653162) |
-**\[Crz\]Riko** | **6** | 2 | murorachi | [#1](https://osu.ppy.sh/community/matches/102655641) |
-**alivn** | **6** | 1 | \[GB\]yobrevelc | [#1](https://osu.ppy.sh/community/matches/102673696) |
-**Miyes** | **6** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/102675530) |
-**\[GB\]Mafufu** | **6** | 2 | IsxI | [#1](https://osu.ppy.sh/community/matches/102676329) |
-\[Crz\]Riko | 1 | **6** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/102678990) |
-**YuLiangSSS** | **6** | 3 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102680147) |
-**MegMewtwoZ** | **6** | 2 | \[Crz\]rebellion | [#1](https://osu.ppy.sh/community/matches/102682708) |
-\[Crz\]Reimu | 5 | **6** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/102700771) |
-\[GB\]AelSan | 2 | **6** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/102702433) |
-- Xiaoluoli - | 2 | **6** | \[GB\]Luoxuan0327 | [#1](https://osu.ppy.sh/community/matches/102702533) |
-alivn | 0 | **6** | \[GB\]Mafufu | [#1](https://osu.ppy.sh/community/matches/102703308) |
-**tyrcs** | **6** | 2 | Akermo | [#1](https://osu.ppy.sh/community/matches/102705934) |
-**Ricizus** | **0** | -1 | Kuiiiiteeee | *Win by Default* |
+| **Quotient GD** | **6** | 0 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/102648402) |
+| **\[GB\]AelSan** | **6** | 5 | \[GB\]Tyris | [#1](https://osu.ppy.sh/community/matches/102650960) |
+| **\[GB\]Luoxuan0327** | **6** | 5 | \[GB\]gluefly | [#1](https://osu.ppy.sh/community/matches/102653162) |
+| **\[Crz\]Riko** | **6** | 2 | murorachi | [#1](https://osu.ppy.sh/community/matches/102655641) |
+| **alivn** | **6** | 1 | \[GB\]yobrevelc | [#1](https://osu.ppy.sh/community/matches/102673696) |
+| **Miyes** | **6** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/102675530) |
+| **\[GB\]Mafufu** | **6** | 2 | IsxI | [#1](https://osu.ppy.sh/community/matches/102676329) |
+| \[Crz\]Riko | 1 | **6** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/102678990) |
+| **YuLiangSSS** | **6** | 3 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102680147) |
+| **MegMewtwoZ** | **6** | 2 | \[Crz\]rebellion | [#1](https://osu.ppy.sh/community/matches/102682708) |
+| \[Crz\]Reimu | 5 | **6** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/102700771) |
+| \[GB\]AelSan | 2 | **6** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/102702433) |
+| - Xiaoluoli - | 2 | **6** | \[GB\]Luoxuan0327 | [#1](https://osu.ppy.sh/community/matches/102702533) |
+| alivn | 0 | **6** | \[GB\]Mafufu | [#1](https://osu.ppy.sh/community/matches/102703308) |
+| **tyrcs** | **6** | 2 | Akermo | [#1](https://osu.ppy.sh/community/matches/102705934) |
+| **Ricizus** | **0** | -1 | Kuiiiiteeee | *Win by Default* |
 
 ### Round of 16
 Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-round-of-16-statistics-best-performances.html).
@@ -422,7 +422,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | - Minato Aqua - | -1 | **0** | **Molli** | *Win by Default* |
 | **\[GB\]Tyris** | **6** | 1 | shade0214 | [#1](https://osu.ppy.sh/community/matches/102489720) |
 | **IsxI** | **0** | -1 | U1d | *Win by Default* |
-Yana Feiya | -1 | **0** | **DJ Sharpnel** | *Win by Default* |
+| Yana Feiya | -1 | **0** | **DJ Sharpnel** | *Win by Default* |
 | **Quotient GD** | **6** | 0 | \[GB\]Luoxuan0327 | [#1](https://osu.ppy.sh/community/matches/102491447) |
 | shizehao | 3 | **6** | **MCPXiaoBai** | [#1](https://osu.ppy.sh/community/matches/102492335) |
 | \[Crz\]Reimu | 4 | **6** | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/102493286) |
@@ -450,76 +450,76 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-\[GB\]Cz | -1 | **0** | **\[JbL\]Hx_032** | *Win by Default* |
-- | -1 | **0** | **\[GB\]yobrevelc** | *Win by Default* |
-luluxia | 0 | **5** | **MkoTenshi** | [#1](https://osu.ppy.sh/community/matches/102284447) |
-zerda | 0 | **5** | **CLLbin** | [#1](https://osu.ppy.sh/community/matches/102284395) |
-Yayoi Takatsuki | -1 | **0** | **gzdongsheng** | *Win by Default* |
-ICspoon | 0 | **5** | **Alptraum** | [#1](https://osu.ppy.sh/community/matches/102285371) |
-**\[Crz\]Reimu** | **5** | 2 | \[GB\]Tyris | [#1](https://osu.ppy.sh/community/matches/102307275) |
-dreamed123 | 0 | **5** | **U1d** | [#1](https://osu.ppy.sh/community/matches/102307220) |
-Yana Feiya | -1 | **0** | **Miyes** | *Win by Default* |
-Gregcraft | 0 | **5** | **shade0214** | [#1](https://osu.ppy.sh/community/matches/102309701) |
-**\[GB\]AelSan** | **5** | 0 | H dame | [#1](https://osu.ppy.sh/community/matches/102311418) |
-alivn | **5** | 0 | murorachi | [#1](https://osu.ppy.sh/community/matches/102311396) |
-2580697339 | 0 | **5** | **N3k0ha_5h12uku** | [#1](https://osu.ppy.sh/community/matches/102312415) |
-**tyrcs** | **5** | 1 | Aqua Minato | [#1](https://osu.ppy.sh/community/matches/102312409) |
-**MIKUlove_** | **0** | -1 | Rudown | *Win by Default* |
-**\[GB\]Luoxuan0327** | **5** | 4 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102313428) |
-**Ricizus** | **5** | 0 | IsxI | [#1](https://osu.ppy.sh/community/matches/102313564) |
-**Hunxin** | **0** | -1 | Krn_ | *Win by Default* |
-**\[Crz\]sunnyxxy** | **5** | 0 | rurudo1o1o | [#1](https://osu.ppy.sh/community/matches/102314770) |
-**MCPXiaoBai** | **5** | 1 | katiexie | [#1](https://osu.ppy.sh/community/matches/102331605) |
-\[GB\]dotdot | -1 | **0** | **DJ Sharpnel** | *Win by Default* |
-**Quotient GD** | **5** | 0 | Wings_AnChen | [#1](https://osu.ppy.sh/community/matches/102334353) |
-**Akermo** | **5** | 1 | Zyuuu | [#1](https://osu.ppy.sh/community/matches/102335127) |
-iRedi | 0 | **5** | **Molli** | [#1](https://osu.ppy.sh/community/matches/102335123) |
-**Kuiiiiteeee** | **5** | 0 | shizehao | [#1](https://osu.ppy.sh/community/matches/102335974) |
-YuanLiang | -1 | **0** | ** YUCInoback ** | *Win by Default* |
-\[GB\]gluefly | 2 | **5** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/102337673) |
-Sakurada Shiro | 2 | **5** | **Etanity Larva** | [#1](https://osu.ppy.sh/community/matches/102337742) |
-**\[Crz\]Riko** | **5** | 2 | -Chen- | [#1](https://osu.ppy.sh/community/matches/102338900) |
-**\[Crz\]rebellion** | **5** | 1 | -Xiaoluoli- | [#1](https://osu.ppy.sh/community/matches/102338898) |
-**\[GB\]Mafufu** | **5** | 0 | chana | [#1](https://osu.ppy.sh/community/matches/102340037) |
-**MegMewtwoZ** | **5** | 0 | \[GB\]sherweifa | [#1](https://osu.ppy.sh/community/matches/102341395) |
+| \[GB\]Cz | -1 | **0** | **\[JbL\]Hx_032** | *Win by Default* |
+| - | -1 | **0** | **\[GB\]yobrevelc** | *Win by Default* |
+| luluxia | 0 | **5** | **MkoTenshi** | [#1](https://osu.ppy.sh/community/matches/102284447) |
+| zerda | 0 | **5** | **CLLbin** | [#1](https://osu.ppy.sh/community/matches/102284395) |
+| Yayoi Takatsuki | -1 | **0** | **gzdongsheng** | *Win by Default* |
+| ICspoon | 0 | **5** | **Alptraum** | [#1](https://osu.ppy.sh/community/matches/102285371) |
+| **\[Crz\]Reimu** | **5** | 2 | \[GB\]Tyris | [#1](https://osu.ppy.sh/community/matches/102307275) |
+| dreamed123 | 0 | **5** | **U1d** | [#1](https://osu.ppy.sh/community/matches/102307220) |
+| Yana Feiya | -1 | **0** | **Miyes** | *Win by Default* |
+| Gregcraft | 0 | **5** | **shade0214** | [#1](https://osu.ppy.sh/community/matches/102309701) |
+| **\[GB\]AelSan** | **5** | 0 | H dame | [#1](https://osu.ppy.sh/community/matches/102311418) |
+| alivn | **5** | 0 | murorachi | [#1](https://osu.ppy.sh/community/matches/102311396) |
+| 2580697339 | 0 | **5** | **N3k0ha_5h12uku** | [#1](https://osu.ppy.sh/community/matches/102312415) |
+| **tyrcs** | **5** | 1 | Aqua Minato | [#1](https://osu.ppy.sh/community/matches/102312409) |
+| **MIKUlove_** | **0** | -1 | Rudown | *Win by Default* |
+| **\[GB\]Luoxuan0327** | **5** | 4 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102313428) |
+| **Ricizus** | **5** | 0 | IsxI | [#1](https://osu.ppy.sh/community/matches/102313564) |
+| **Hunxin** | **0** | -1 | Krn_ | *Win by Default* |
+| **\[Crz\]sunnyxxy** | **5** | 0 | rurudo1o1o | [#1](https://osu.ppy.sh/community/matches/102314770) |
+| **MCPXiaoBai** | **5** | 1 | katiexie | [#1](https://osu.ppy.sh/community/matches/102331605) |
+| \[GB\]dotdot | -1 | **0** | **DJ Sharpnel** | *Win by Default* |
+| **Quotient GD** | **5** | 0 | Wings_AnChen | [#1](https://osu.ppy.sh/community/matches/102334353) |
+| **Akermo** | **5** | 1 | Zyuuu | [#1](https://osu.ppy.sh/community/matches/102335127) |
+| iRedi | 0 | **5** | **Molli** | [#1](https://osu.ppy.sh/community/matches/102335123) |
+| **Kuiiiiteeee** | **5** | 0 | shizehao | [#1](https://osu.ppy.sh/community/matches/102335974) |
+| YuanLiang | -1 | **0** | ** YUCInoback ** | *Win by Default* |
+| \[GB\]gluefly | 2 | **5** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/102337673) |
+| Sakurada Shiro | 2 | **5** | **Etanity Larva** | [#1](https://osu.ppy.sh/community/matches/102337742) |
+| **\[Crz\]Riko** | **5** | 2 | -Chen- | [#1](https://osu.ppy.sh/community/matches/102338900) |
+| **\[Crz\]rebellion** | **5** | 1 | -Xiaoluoli- | [#1](https://osu.ppy.sh/community/matches/102338898) |
+| **\[GB\]Mafufu** | **5** | 0 | chana | [#1](https://osu.ppy.sh/community/matches/102340037) |
+| **MegMewtwoZ** | **5** | 0 | \[GB\]sherweifa | [#1](https://osu.ppy.sh/community/matches/102341395) |
 
 ### Round of 64
 Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-round-of-64-statistics-best-performances.html).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-**MegMewtwoZ** | **0** | -1 | - | *Win by Default* |
-**Quotient GD** | **0** | -1 | Yayoi Takatsuki | *Win by Default* |
-**Kuiiiiteeee** | **4** | 0 | Hunxin | [#1](https://osu.ppy.sh/community/matches/102099391) |
-**Ricizus** | **4** | 0 | zerda | [#1](https://osu.ppy.sh/community/matches/102102890) |
-**H dame** | **0** | -1 | U1d | *Win by Default* |
-**\[GB\]Mafufu** | **4** | 0 | luluxia | [#1](https://osu.ppy.sh/community/matches/102119450) |
-**\[GB\]AelSan** | **4** | 0 | dreamed123 | [#1](https://osu.ppy.sh/community/matches/102121614) |
-**\[Crz\]Riko** | **4** | 0 | ICspoon | [#1](https://osu.ppy.sh/community/matches/102122453) |
-**\[Crz\]rebellion** | **4** | 0 | \[GB\]dotdot | [#1](https://osu.ppy.sh/community/matches/102123447) |
-**\[GB\]gluefly** | **4** | 1 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/102124142) |
-**Yana Feiya** | **4** | 0 | 2580697339 | [#1](https://osu.ppy.sh/community/matches/102125031) |
-**alivn** | **4** | 0 | \[GB\]Cz | [#1](https://osu.ppy.sh/community/matches/102125996) |
-**murorachi** | **4** | 0 | \[JbL\]Hx_032 | [#1](https://osu.ppy.sh/community/matches/102126003) |
-**\[GB\]Luoxuan0327** | **4** | 0 | Sakurada Shiro | [#1](https://osu.ppy.sh/community/matches/102126977) |
-Krn_ | -1 | **0** | **shizehao** | *Win by Default* |
-**\[Crz\]IsxI** | **4** | 3 | CLLbin | [#1](https://osu.ppy.sh/community/matches/102127958) |
-**\[CRZ\]LF1F1F** | **4** | 0 | Etanity Larva | [#1](https://osu.ppy.sh/community/matches/102129139) |
-\[GB\]yobrevelc | 2 | **4** | **\[GB\]sherweifa** | [#1](https://osu.ppy.sh/community/matches/102129090) |
-**\[Crz\]sunnyxxy** | **4** | 0 | MIKUlove_ | [#1](https://osu.ppy.sh/community/matches/102130485) |
-**Wings_AnChen** | **4** | 2 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/102130489) |
-**rurudo1o1o** | **4** | 3 | Rudown | [#1](https://osu.ppy.sh/community/matches/102132006) |
-**\[Crz\]Reimu** | **4** | 0 | iRedi | [#1](https://osu.ppy.sh/community/matches/102149048) |
-**Akermo** | **0** | -1 | YuanLiang | *Win by Default* |
-**tyrcs** | **4** | 0 | Gregcraft | [#1](https://osu.ppy.sh/community/matches/102150938) |
-**Miyes** | **4** | 1 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/102151683) |
-**\[GB\]Tyris** | **4** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/102152440) |
-**Zyuuu** | **4** | 0 | YUCInoback | [#1](https://osu.ppy.sh/community/matches/102154297) |
-**- Minato  Aqua-** | **4** | 0 | shade0214 | [#1](https://osu.ppy.sh/community/matches/102155252) |
-**chana** | **4** | 2 | MkoTenshi | [#1](https://osu.ppy.sh/community/matches/102155260) |
-**YuLiangSSS** | **4** | 0 | katiexie | [#1](https://osu.ppy.sh/community/matches/102156436) |
-**- Xiaoluoli -** | **4** | 1 | DJ Sharpnel | [#1](https://osu.ppy.sh/community/matches/102156358) |
-**-Chen-** | **4** | 3 | Alptraum | [#1](https://osu.ppy.sh/community/matches/102157598) |
+| **MegMewtwoZ** | **0** | -1 | - | *Win by Default* |
+| **Quotient GD** | **0** | -1 | Yayoi Takatsuki | *Win by Default* |
+| **Kuiiiiteeee** | **4** | 0 | Hunxin | [#1](https://osu.ppy.sh/community/matches/102099391) |
+| **Ricizus** | **4** | 0 | zerda | [#1](https://osu.ppy.sh/community/matches/102102890) |
+| **H dame** | **0** | -1 | U1d | *Win by Default* |
+| **\[GB\]Mafufu** | **4** | 0 | luluxia | [#1](https://osu.ppy.sh/community/matches/102119450) |
+| **\[GB\]AelSan** | **4** | 0 | dreamed123 | [#1](https://osu.ppy.sh/community/matches/102121614) |
+| **\[Crz\]Riko** | **4** | 0 | ICspoon | [#1](https://osu.ppy.sh/community/matches/102122453) |
+| **\[Crz\]rebellion** | **4** | 0 | \[GB\]dotdot | [#1](https://osu.ppy.sh/community/matches/102123447) |
+| **\[GB\]gluefly** | **4** | 1 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/102124142) |
+| **Yana Feiya** | **4** | 0 | 2580697339 | [#1](https://osu.ppy.sh/community/matches/102125031) |
+| **alivn** | **4** | 0 | \[GB\]Cz | [#1](https://osu.ppy.sh/community/matches/102125996) |
+| **murorachi** | **4** | 0 | \[JbL\]Hx_032 | [#1](https://osu.ppy.sh/community/matches/102126003) |
+| **\[GB\]Luoxuan0327** | **4** | 0 | Sakurada Shiro | [#1](https://osu.ppy.sh/community/matches/102126977) |
+| Krn_ | -1 | **0** | **shizehao** | *Win by Default* |
+| **\[Crz\]IsxI** | **4** | 3 | CLLbin | [#1](https://osu.ppy.sh/community/matches/102127958) |
+| **\[Crz\]lf1f1f** | **4** | 0 | Etanity Larva | [#1](https://osu.ppy.sh/community/matches/102129139) |
+| \[GB\]yobrevelc | 2 | **4** | **\[GB\]sherweifa** | [#1](https://osu.ppy.sh/community/matches/102129090) |
+| **\[Crz\]sunnyxxy** | **4** | 0 | MIKUlove_ | [#1](https://osu.ppy.sh/community/matches/102130485) |
+| **Wings_AnChen** | **4** | 2 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/102130489) |
+| **rurudo1o1o** | **4** | 3 | Rudown | [#1](https://osu.ppy.sh/community/matches/102132006) |
+| **\[Crz\]Reimu** | **4** | 0 | iRedi | [#1](https://osu.ppy.sh/community/matches/102149048) |
+| **Akermo** | **0** | -1 | YuanLiang | *Win by Default* |
+| **tyrcs** | **4** | 0 | Gregcraft | [#1](https://osu.ppy.sh/community/matches/102150938) |
+| **Miyes** | **4** | 1 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/102151683) |
+| **\[GB\]Tyris** | **4** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/102152440) |
+| **Zyuuu** | **4** | 0 | YUCInoback | [#1](https://osu.ppy.sh/community/matches/102154297) |
+| **- Minato  Aqua-** | **4** | 0 | shade0214 | [#1](https://osu.ppy.sh/community/matches/102155252) |
+| **chana** | **4** | 2 | MkoTenshi | [#1](https://osu.ppy.sh/community/matches/102155260) |
+| **YuLiangSSS** | **4** | 0 | katiexie | [#1](https://osu.ppy.sh/community/matches/102156436) |
+| **- Xiaoluoli -** | **4** | 1 | DJ Sharpnel | [#1](https://osu.ppy.sh/community/matches/102156358) |
+| **-Chen-** | **4** | 3 | Alptraum | [#1](https://osu.ppy.sh/community/matches/102157598) |
 
 ## Ruleset
 
