@@ -268,8 +268,7 @@ This competition has come to an end and resulted in the following podium:
 2. [SYUNN - Cosy Catastrophe (stupud man) \[Typhoon\]](https://osu.ppy.sh/beatmapsets/1393751#mania/2877105)
 3. [seatrus – Raindrop (\[Crz\]FolAH1217) \[RaLNy\]](https://osu.ppy.sh/beatmapsets/1701983#mania/3477685)
 - Hybrid
-1. [Tokyo Machine – FLAMES (DannyPX) \[BURNING\]]
-(https://osu.ppy.sh/beatmapsets/1303266#mania/2702686)
+1. [Tokyo Machine – FLAMES (DannyPX) \[BURNING\]](https://osu.ppy.sh/beatmapsets/1303266#mania/2702686)
 2. [M2U - Dual Fractal (\[Crz\]xz1z1z) \[Beginner\]](https://osu.ppy.sh/beatmapsets/1588847#mania/3245283)
 3. [cosMo@BousouP - Deux Saint-Co Odyssey!! (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1497081#mania/3143239)
 - Difficulty
