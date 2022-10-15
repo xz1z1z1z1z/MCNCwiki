@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 3. [Sora Tokino - Asu no Yozora Shoukaihan (\[Crz\]Alleyne) \[STEPDWI's Challenge 1.4x\]](https://osu.ppy.sh/beatmapsets/1822379#mania/3739498)
 4. [Last Note. - Setsuna Trip (\[Crz\]xz1z1z) \[Muses & xz's Chordjack Trip\]](https://osu.ppy.sh/beatmapsets/1710023#mania/3494222)
 5. [Tatsh a.k.a. Zeami – Amaterasu (YuEast 2018) \[Challenge LessLN\]](https://osu.ppy.sh/beatmapsets/1536614#mania/3715906)
-6. onoken - P8107 (Madoka2574) \[Inverse Reorganization\](https://osu.ppy.sh/beatmapsets/1393987#mania/2877554)
+6. [onoken - P8107 (Madoka2574) \[Inverse Reorganization\]](https://osu.ppy.sh/beatmapsets/1393987#mania/2877554)
 7. [onumi – PERSONALITY (Evening) \[MIRAGE OD 8\]](https://osu.ppy.sh/beatmapsets/1234328#mania/3739939)
 - LN
 1. [umu. – humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Hybrid
 1. [xi - Angel's Ladder (lemonguy) \[Ascension to Heaven\]](https://osu.ppy.sh/beatmapsets/1742494#mania/3562153)
 2. [ZxNX – Schadenfreude (\_Stan) \[Malicious\]](https://osu.ppy.sh/beatmapsets/1815968#mania/3725474)
-3. [Jay Chou - Greatest Works of Art. (\[Crz\]xz1z1z) \[Alleyne vs xz's Greatest Works of Map 1.1x\]][https://osu.ppy.sh/beatmapsets/1815937#mania/3725375]
+3. [Jay Chou - Greatest Works of Art. (\[Crz\]xz1z1z) \[Alleyne vs xz's Greatest Works of Map 1.1x\]](https://osu.ppy.sh/beatmapsets/1815937#mania/3725375)
 - Difficulty
 1. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru- (-mint-) \[Formication (cut)\]](https://osu.ppy.sh/beatmapsets/1800811#mania/3691933)
 - SV
