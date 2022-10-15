@@ -288,7 +288,7 @@ This competition has come to an end and resulted in the following podium:
 1. [ROKINA (Judah) - F13 (Kamikaze) \[BETRAYAL \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1381647#mania/2854756)
 2. [Yorushika - Deep Indigo (\[Crz\]MemoryI) \[Blue×2\]](https://osu.ppy.sh/beatmapsets/1756567#mania/3594652)
 3. [Hara Sayuri, Haruse Natsumi, Takeda Larissa Tago - Spring Screaming (YuEast 2018) \[Haru\]](https://osu.ppy.sh/beatmapsets/1800105#mania/3690360)
-4. [Sanxion7 – Eternus (\[Crz\]xz1z1z) [Irone OSU's Insane noLN \[1.15x Rate\]](https://osu.ppy.sh/beatmapsets/1800519#mania/3691324)
+4. [Sanxion7 – Eternus (\[Crz\]xz1z1z) \[Irone OSU's Insane noLN \[1.15x Rate\]](https://osu.ppy.sh/beatmapsets/1800519#mania/3691324)
 5. [Shirobon - Take Me to Pleasure lsland (LeiN-) \[Walrus Pit\]](https://osu.ppy.sh/beatmapsets/1397098#mania/2883272)
 6. [The Flashbulb - Warm Hands In Cold Fog (Toaph Daddy) \[Kotatsu\]](https://osu.ppy.sh/beatmapsets/891315#mania/2965545)
 - LN
