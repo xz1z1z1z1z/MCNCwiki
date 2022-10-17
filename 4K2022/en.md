@@ -237,7 +237,7 @@ This competition has come to an end and resulted in the following podium:
   5. [lgorrr - Tout Petit Moineau (\[Crz\]Alleyne) \[Wh1teh's Sparrow (Edit)\]](https://osu.ppy.sh/beatmapsets/1810808#mania/3714160)
   6. [katagiri – Dogs (AutotelicBrown) \[Guau Guau\]](https://osu.ppy.sh/beatmapsets/1592967#mania/3253475)
 - LN
-1. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
+  1. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
   2. [DJ TOTTO -DORNWALD \~Junge\~ (stupud man) \[Anima 1.1x\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3388945)
   3. [john - Shun-ran (Raveille) \[Harugakita \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1810856#mania/3714245)
 - Hybrid
@@ -387,7 +387,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **Miyes** | **6** | 1 | Molli | [#1](https://osu.ppy.sh/community/matches/102675530) |
 | **\[GB\]Mafufu** | **6** | 2 | IsxI | [#1](https://osu.ppy.sh/community/matches/102676329) |
 | \[Crz\]Riko | 1 | **6** | **Miyes** | [#1](https://osu.ppy.sh/community/matches/102678990) |
-| **YuLiangSSS** | **6** | 3 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102680147) |
+| **YuLiangSSS** | **6** | 3 | \[Crz\]lf1f1f | [#1](https://osu.ppy.sh/community/matches/102680147) |
 | **MegMewtwoZ** | **6** | 2 | \[Crz\]rebellion | [#1](https://osu.ppy.sh/community/matches/102682708) |
 | \[Crz\]Reimu | 5 | **6** | **- Xiaoluoli -** | [#1](https://osu.ppy.sh/community/matches/102700771) |
 | \[GB\]AelSan | 2 | **6** | **YuLiangSSS** | [#1](https://osu.ppy.sh/community/matches/102702433) |
@@ -403,7 +403,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | --: | :-: | :-: | :-- | :-- |
 | **\[GB\]gluefly** | **0** | -1 | Hunxin | *Win by Default* |
 | **Wings_AnChen** | **6** | 5 | \[JbL\]Hx_032 | [#1](https://osu.ppy.sh/community/matches/102466607) |
-| **\[CRZ\]LF1F1F** | **6** | 0 | YUCInoback | [#1](https://osu.ppy.sh/community/matches/102467659) |
+| **\[Crz\]lf1f1f** | **6** | 0 | YUCInoback | [#1](https://osu.ppy.sh/community/matches/102467659) |
 | **Zyuuu** | **6** | 0 | Etanity Larva | [#1](https://osu.ppy.sh/community/matches/102467716) |
 | **- Xiaoluoli -** | **6** | 1 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/102468766) |
 | **rurudo1o1o** | **6** | 2 | MkoTenshi | [#1](https://osu.ppy.sh/community/matches/102468763) |
@@ -422,7 +422,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **Ricizus** | **6** | 3 | Miyes | [#1](https://osu.ppy.sh/community/matches/102497231) |
 | **MegMewtwoZ** | **6** | 0 | YuLiangSSS | [#1](https://osu.ppy.sh/community/matches/102498548) |
 | **murorachi** | **6** | 5 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/102499882) |
-| **\[CRZ\]LF1F1F** | **6** | 0 | Wings_AnChen | [#1](https://osu.ppy.sh/community/matches/102517729) |
+| **\[Crz\]lf1f1f** | **6** | 0 | Wings_AnChen | [#1](https://osu.ppy.sh/community/matches/102517729) |
 | **\[GB\]gluefly** | **6** | 4 | \[GB\]sherweifa | [#1](https://osu.ppy.sh/community/matches/102518480) |
 | **\[Crz\]rebellion** | **6** | 3 | \[GB\]AelSan | [#1](https://osu.ppy.sh/community/matches/102518458) |
 | rurudo1o1o | 4 | **6** | **\[GB\]Tyris** | [#1](https://osu.ppy.sh/community/matches/102519453) |
@@ -454,7 +454,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | 2580697339 | 0 | **5** | **N3k0ha_5h12uku** | [#1](https://osu.ppy.sh/community/matches/102312415) |
 | **tyrcs** | **5** | 1 | Aqua Minato | [#1](https://osu.ppy.sh/community/matches/102312409) |
 | **MIKUlove_** | **0** | -1 | Rudown | *Win by Default* |
-| **\[GB\]Luoxuan0327** | **5** | 4 | \[CRZ\]LF1F1F | [#1](https://osu.ppy.sh/community/matches/102313428) |
+| **\[GB\]Luoxuan0327** | **5** | 4 | \[Crz\]lf1f1f | [#1](https://osu.ppy.sh/community/matches/102313428) |
 | **Ricizus** | **5** | 0 | IsxI | [#1](https://osu.ppy.sh/community/matches/102313564) |
 | **Hunxin** | **0** | -1 | Krn_ | *Win by Default* |
 | **\[Crz\]sunnyxxy** | **5** | 0 | rurudo1o1o | [#1](https://osu.ppy.sh/community/matches/102314770) |
@@ -517,29 +517,28 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 1. The MCNC4k is a head-to-head individual tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Head-To-Head, Score V2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team before the actual matches take place.
-- Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players scores will be considered a loss, even its higher than the opponent.
-- Reviving and surviving during a beatmap is considered as passing it.
+   - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
-- Custom skin elements must not be used to alter core gameplay mechanics.
+   - Custom skin elements must not be used to alter core gameplay mechanics.
 8. Players may ask for a rematch if a team member encounters technical difficulties while playing.
-- "Lag spikes" are not considered a valid reason to nullify a beatmap.
-- If a rematch happens, the player’s mod during that particular beatmap must remain the same.
-- This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - If a rematch happens, the player’s mod during that particular beatmap must remain the same.
+   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
 10. If player is not present at match time, it can be postponed for up to 10 minutes. If, after this period, there is still not appear, a win by default will be declared for the player present.
-
 11. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 12. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
 13. Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches.
 14. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 15. Penalties for violating the tournament rules include, but are not limited to:
-- Directly judge the score of one beatmap.
-- Declaring the match as forfeited, or as a win by default for the other player.
-- Disqualification from the entire tournament.
-- Disqualification from the current and future official tournaments, until appealed.
+   - Directly judge the score of one beatmap.
+   - Declaring the match as forfeited, or as a win by default for the other player.
+   - Disqualification from the entire tournament.
+   - Disqualification from the current and future official tournaments, until appealed.
 16. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 17. The Tournament Management reserves the right to refuse any and all suspicious accounts/players entry into the tournament.
 18. Players must abide to the osu! terms of service.
@@ -549,9 +548,9 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 1. There is no rank range for this tournament, players from all skill levels are free to participate.
 2. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the territories listed above is eligible for playing.
 3. To be eligible for playing, one must:
-- Have not been banned/majorly restricted in the MCNC.
-- Pass a background check by osu!staff and the tournament staff.
-- Include the answer "原来你是op " in the question "Do you have anything else to say?".
+   - Have not been banned/majorly restricted in the MCNC.
+   - Pass a background check by osu!staff and the tournament staff.
+   - Include the answer "原来你是op " in the question "Do you have anything else to say?".
 4. To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! Staff to check.
 5. All successfully formed players will be published after the Registration Phase.
 6. Organisers, mappool selectors and referees must not participate as a player in the tournament.
@@ -573,16 +572,24 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 3. Players that lose a match in the losers' bracket get eliminated from the tournament.
 4. The warmup maps are allowed up to 5 minutes. In the case you can choose not to play your warmup map. Players need to prepare the link to the warmup map before the match start, and send it to #multiplayer during the match for the referee to select the map.
 
+#### Win conditions
+
+- In the Qualifiers, players need to place in the top 64 seeded in order to advance to the Double Elimination stage.
+- In the Round of 64, players need to win 4 maps to win a match (best of 7).
+- In the Round of 32, players need to win 5 maps to win a match (best of 9).
+- In the Round of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
+- In the Semifinals, Finals, and Grand Finals, players need to win 7 maps to win the match (best of 13).
+
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-- Room settings are osu!mania, Head-to-Head., Win Condition: 'ScoreV2'. Room name must be "MCNC4K 2022: (Player 1) vs (Player 2)".
-- The player mentioned first in the room name must be the red, the player mentioned second in the room name must be the blue.
+   - Room settings are osu!mania, Head-to-Head., Win Condition: 'ScoreV2'. Room name must be "MCNC4K 2022: (Player 1) vs (Player 2)".
+   - The player mentioned first in the room name must be the red, the player mentioned second in the room name must be the blue.
 2. Each player can ban one beatmap to be selected from the pool. These beatmaps can not be picked by any player in the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use !roll once in #multiplayer.
-- The winner of the !roll starts picking the first beatmap of the match.
-- The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+   - The winner of the !roll starts picking the first beatmap of the match.
+   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
 5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted, for the second occurrence: a random map will be chosen from the mappool using !roll X, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
 6. Players will be given at most 3-minute pause for solving unexpected situations.
 7. Results of the Qualifiers Stage will be published via a Statistics sheet.
@@ -591,14 +598,14 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-- Qualifiers: 8 beatmaps
-- Round of 64: 12 beatmaps
-- Round of 32: 14 beatmaps
-- Round of 16: 16 beatmaps
-- Quarterfinals: 16 beatmaps
-- Semifinals : 18 beatmaps
-- Finals: 18 beatmaps
-- Grand Final: 18 beatmaps
+   - Qualifiers: 8 beatmaps
+   - Round of 64: 12 beatmaps
+   - Round of 32: 14 beatmaps
+   - Round of 16: 16 beatmaps
+   - Quarterfinals: 16 beatmaps
+   - Semifinals : 18 beatmaps
+   - Finals: 18 beatmaps
+   - Grand Final: 18 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
