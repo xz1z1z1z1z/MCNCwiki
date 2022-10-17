@@ -535,10 +535,10 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 13. Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches.
 14. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 15. Penalties for violating the tournament rules include, but are not limited to:
-   - Directly judge the score of one beatmap.
-   - Declaring the match as forfeited, or as a win by default for the other player.
-   - Disqualification from the entire tournament.
-   - Disqualification from the current and future official tournaments, until appealed.
+    - Directly judge the score of one beatmap.
+    - Declaring the match as forfeited, or as a win by default for the other player.
+    - Disqualification from the entire tournament.
+    - Disqualification from the current and future official tournaments, until appealed.
 16. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 17. The Tournament Management reserves the right to refuse any and all suspicious accounts/players entry into the tournament.
 18. Players must abide to the osu! terms of service.
@@ -574,11 +574,11 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 
 #### Win conditions
 
-- In the Qualifiers, players need to place in the top 64 seeded in order to advance to the Double Elimination stage.
-- In the Round of 64, players need to win 4 maps to win a match (best of 7).
-- In the Round of 32, players need to win 5 maps to win a match (best of 9).
-- In the Round of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
-- In the Semifinals, Finals, and Grand Finals, players need to win 7 maps to win the match (best of 13).
+1. In the Qualifiers, players need to place in the top 64 seeded in order to advance to the Double Elimination stage.
+2. In the Round of 64, players need to win 4 maps to win a match (best of 7).
+3. In the Round of 32, players need to win 5 maps to win a match (best of 9).
+4. In the Round of 16 and Quarterfinals, players need to win 6 maps to win a match (best of 11).
+5. In the Semifinals, Finals, and Grand Finals, players need to win 7 maps to win the match (best of 13).
 
 ### Match instructions
 
